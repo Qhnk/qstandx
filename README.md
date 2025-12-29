@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 
-> *Dica: Tire um print do seu programa aberto e coloque na pasta do repositório como `preview.png`*
+> 
 ![Preview do QstandX](preview.png)
 
 ---
@@ -58,7 +58,7 @@ O QstandX é feito por jogadores, para jogadores.
 ## 📬 Contato & Suporte
 
 *   **Github:** [@qhnk](https://github.com/qhnk)
-*   **Discord:** [ENTRE NO MEU SERVIDOR](SEU_LINK_AQUI)
+*   **Discord:** [ENTRE NO MEU SERVIDOR]([SEU_LINK_AQUI](https://discord.gg/9E4Sdrp77W))
 
 ---
 *Este software é fornecido "como está", sem garantias explícitas.*
