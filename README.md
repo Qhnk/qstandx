@@ -1,4 +1,3 @@
-<p align="center"><img src="Qstand.png" width="100"></p>
 # 🌌 QstandX 2025
 ![Versão](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
