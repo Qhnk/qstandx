@@ -1,10 +1,10 @@
-# 🌌 QstandX Galaxy
+# 🌌 QstandX 2025
 
 ![Versão](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
 ![Linguagem](https://img.shields.io/badge/C%23-WinForms-purple?style=for-the-badge)
 
-**QstandX Galaxy** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2025 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
+**QstandX 2025** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2025 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
 
 ---
 
