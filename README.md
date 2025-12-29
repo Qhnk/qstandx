@@ -62,4 +62,3 @@ O QstandX é feito por jogadores, para jogadores.
 ---
 *Este software é fornecido "como está", sem garantias explícitas.*
 
-<p align="center"><img src="icone.ico" width="100"></p>
