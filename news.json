@@ -1,14 +1,32 @@
 [
   {
-    "Title": "NOVO UPDATE DISPONÍVEL",
-    "Content": "A versão 1.1.0 chegou com melhorias no Multi-box!",
-    "ImageUrl": "https://link-da-imagem.com/img1.png",
-    "Link": "https://github.com/..."
+    "Title": "🚀 BEM-VINDO AO QSTAND X",
+    "Content": "Desenvolvido por Qhnk, o QstandX nasceu da necessidade de um launcher moderno e estável após o fim do suporte a outros softwares. O futuro do Flash é aqui!",
+    "ImageUrl": "https://i.imgur.com/8QO9yYp.png",
+    "Link": "https://github.com/Qhnk/qstandx"
   },
   {
-    "Title": "EVENTO DE COMUNIDADE",
-    "Content": "Participe do nosso torneio de Transformice neste domingo.",
-    "ImageUrl": "https://link-da-imagem.com/img2.png",
-    "Link": "https://discord.gg/..."
+    "Title": "⚡ PERFORMANCE BRUTA",
+    "Content": "Por que somos os melhores? O QstandX utiliza otimização agressiva de RAM e CPU (Eco Mode), garantindo que seu FPS fique estável mesmo com 10 abas abertas.",
+    "ImageUrl": "https://i.imgur.com/X2P1VzE.png",
+    "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "Title": "👑 CRIADO POR QUEM JOGA",
+    "Content": "O Qhnk idealizou este projeto focado na comunidade. Diferente de outros, o QstandX não tem delays de input e possui o sistema Multi-Box mais rápido de 2025.",
+    "ImageUrl": "https://i.imgur.com/vHqY7bM.png",
+    "Link": "https://discord.gg/9E4Sdrp77W"
+  },
+  {
+    "Title": "🛠️ MULTI-BOX SINCRONIZADO",
+    "Content": "Domine as salas sozinho! Com o nosso sincronizador de teclas, todos os seus personagens seguem seus comandos perfeitamente. Ative nas opções!",
+    "ImageUrl": "https://i.imgur.com/LhB2P4F.png",
+    "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "Title": "📜 SCRIPTS E CUSTOMIZAÇÃO",
+    "Content": "Adicione seus próprios scripts e mude as cores da UI. O QstandX é totalmente maleável para se adaptar ao seu estilo de jogo. Crie sua biblioteca!",
+    "ImageUrl": "https://i.imgur.com/mOqS3i6.png",
+    "Link": "https://github.com/Qhnk/qstandx"
   }
 ]
