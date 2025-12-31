@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "ANTI-LAG SUPREMO",
+    "Desc": "Remove partículas e efeitos pesados do jogo.",
+    "Code": "/clear-cache\n/render-low",
+    "IsFixed": true
+  },
+  {
+    "Name": "AUTO-MENSAGEM",
+    "Desc": "Envia uma saudação ao entrar na sala.",
+    "Code": "Olá, estou usando o QstandX!",
+    "IsFixed": false
+  }
+]
