@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "ANTI-LAG SUPREMO",
+    "Desc": "Otimiza o Flash Player para rodar com o máximo de FPS possível.",
+    "Code": "/fps 60\n/performance-mode on"
+  },
+  {
+    "Name": "AUTO-SALA 801",
+    "Desc": "Entra automaticamente na sala 801 ao iniciar.",
+    "Code": "/sala 801"
+  }
+]
