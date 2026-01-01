@@ -1,0 +1,9 @@
+{
+  "Version": "1.0.1",
+  "Title": "LANÇAMENTO OFICIAL",
+  "Author": "Qhnk",
+  "Description": "Adicionamos novos sistemas de macro e suporte a novos motores Flash.",
+  "ImageUrl": "https://sua-imagem.com/foto.png",
+  "DownloadUrl": "https://github.com/usuario/repo/releases/download/v1.0.1/QstandX.zip",
+  "Changelog": ["- Novo sistema de multi-box", "- Correção de lag no Darkmice", "- Novo tema escuro"]
+}
