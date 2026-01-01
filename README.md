@@ -34,7 +34,8 @@
 
 > 
 ![Preview do QstandX](preview.png)
-
+![Preview do QstandX](preview3.png)
+![Preview do QstandX](preview2.png)
 ---
 
 ## 🛠️ Como Instalar
