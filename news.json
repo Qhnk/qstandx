@@ -28,5 +28,12 @@
     "Content": "Adicione seus próprios scripts e mude as cores da UI. O QstandX é totalmente maleável para se adaptar ao seu estilo de jogo. Crie sua biblioteca!",
     "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4zAKIVBNWXKDBVVOq34njJw7CgmYR7qHUQ&s",
     "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "Title": "🛠️ BUGS",
+    "Content": "AO QstandX ainda está em desenvolvimento. É crucial que você REPORTE BUGS!",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwTYzejaFiJeaRCsUfxbW0-rD9ZrMeI_DwA&s",
+    "Link": "https://github.com/Qhnk/qstandx"
   }
+  
 ]
