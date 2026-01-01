@@ -1,7 +1,18 @@
 # 🌌 QstandX 2025
-![Versão](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
-![Linguagem](https://img.shields.io/badge/C%23-WinForms-purple?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.1-00FFFF?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/C%23-WinForms-purple?style=for-the-badge" alt="Linguagem">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.zip">
+    <img src="https://img.shields.io/badge/BAIXAR_QSTANDX_V1.0.1-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Now">
+  </a>
+</p>
+
+---
 
 **QstandX 2025** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2025 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
 
@@ -15,6 +26,7 @@
 *   📜 **Engine de Scripts:** Gerenciador de scripts integrado para automatizar tarefas.
 *   🖥️ **Interface Moderna:** UI translúcida com modo Auto-Hide e suporte nativo a Fullscreen (F11).
 *   🛰️ **News Feed:** Integração direta com as notícias do **Area 801**.
+*   🔄 **Auto-Update:** Sistema inteligente que detecta novas versões e atualiza o launcher automaticamente.
 
 ---
 
@@ -27,11 +39,11 @@
 
 ## 🛠️ Como Instalar
 
-1. Vá até a aba [Releases](https://github.com/qhnk/SEU_REPOSITORIO/releases/latest).
-2. Baixe o arquivo `QstandX.zip`.
-3. Extraia em uma pasta de sua preferência.
-4. Certifique-se de que o `flashplayer.exe` está na mesma pasta.
-5. Execute o `QstandX.exe`.
+1. Clique no botão **[BAIXAR QSTANDX]** no topo desta página.
+2. Extraia o arquivo `QstandX.zip` em uma pasta de sua preferência.
+3. Certifique-se de que o `flashplayer.exe` (ou o motor de sua preferência) está na pasta `engines` ou na raiz.
+4. Execute o `QstandX.exe`.
+5. O launcher criará automaticamente um atalho na sua Área de Trabalho após a primeira atualização.
 
 ---
 
@@ -57,8 +69,7 @@ O QstandX é feito por jogadores, para jogadores.
 ## 📬 Contato & Suporte
 
 *   **Github:** [@qhnk](https://github.com/qhnk)
-*   **Discord:** [ENTRE NO MEU SERVIDOR]([SEU_LINK_AQUI](https://discord.gg/9E4Sdrp77W))
+*   **Discord:** [ENTRE NO MEU SERVIDOR](https://discord.gg/9E4Sdrp77W)
 
 ---
 *Este software é fornecido "como está", sem garantias explícitas.*
-
