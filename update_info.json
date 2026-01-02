@@ -1,12 +1,27 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "Title": "QstandX - 02/01/2026",
-  "DescriptionPT": "A versão 1.0.3 possui correção de BUGS e novo sistema de Onlines.",
-  "DescriptionEN": "Version 1.0.3 features BUG fixes and a new Online user system.",
-  "DescriptionES": "La versión 1.0.3 presenta correcciones de ERRORES y un nuevo sistema de usuarios en línea.",
-  "ChangelogPT": ["Sincronização Multi-Task", "Correção de Foco", "Novo Anti-Kick"],
-  "ChangelogEN": ["Multi-Task Sync", "Focus Fix", "New Anti-Kick"],
-  "ChangelogES": ["Sincronización Multi-Task", "Corrección de Foco", "Nuevo Anti-Kick"],
+  "DescriptionPT": "A versão 1.0.4 traz melhorias na interação com as SWFs e ajustes no sistema de janelas.",
+  "DescriptionEN": "Version 1.0.4 brings improvements to SWF interaction and window system adjustments.",
+  "DescriptionES": "La versión 1.0.4 trae mejoras en la interacción con las SWF y ajustes en el sistema de ventanas.",
+  "ChangelogPT": [
+    "Arraste de tela habilitado diretamente pela SWF (Transformice e Darkmice)",
+    "Botão Maximizar corrigido (não entra mais em Fullscreen)",
+    "Melhoria na detecção de motores na pasta engines",
+    "Otimização de foco ao alternar abas"
+  ],
+  "ChangelogEN": [
+    "Screen dragging enabled directly via SWF (Transformice & Darkmice)",
+    "Maximize button fixed (no longer triggers Fullscreen)",
+    "Improved engine detection in the engines folder",
+    "Focus optimization when switching tabs"
+  ],
+  "ChangelogES": [
+    "Arrastre de pantalla habilitado directamente por la SWF (Transformice y Darkmice)",
+    "Botón Maximizar corregido (ya no activa Pantalla Completa)",
+    "Detección de motores mejorada en la carpeta engines",
+    "Optimización de enfoque al cambiar de pestañas"
+  ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.4/QstandX.zip"
 }
