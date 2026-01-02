@@ -1,4 +1,4 @@
-# 🌌 QstandX 2025
+# 🌌 QstandX 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.1-00FFFF?style=for-the-badge" alt="Versão">
@@ -14,7 +14,7 @@
 
 ---
 
-**QstandX 2025** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2025 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
+**QstandX 2026** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2026 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
 
 ---
 
@@ -60,7 +60,7 @@
 
 ## 🤝 Créditos e Motivação
 
-Este projeto foi desenvolvido por **Qhnk** em 2025.
+Este projeto foi desenvolvido por **Qhnk** em 2026.
 A motivação principal foi suprir a carência de launchers otimizados para jogos Flash que pararam de funcionar ou ficaram obsoletos. 
 
 O QstandX é feito por jogadores, para jogadores.
