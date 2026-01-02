@@ -1,15 +1,12 @@
 {
   "Version": "1.0.3",
   "Title": "QstandX - 02/01/2026",
-  "Author": "Qhnk",
-  "Description": "A versão 1.0.3 possui correção de BUGS e novo sistema de Onlines que mostra os usuarios atualmente no Qstand",
+  "DescriptionPT": "A versão 1.0.3 possui correção de BUGS e novo sistema de Onlines.",
+  "DescriptionEN": "Version 1.0.3 features BUG fixes and a new Online user system.",
+  "DescriptionES": "La versión 1.0.3 presenta correcciones de ERRORES y un nuevo sistema de usuarios en línea.",
+  "ChangelogPT": ["Sincronização Multi-Task", "Correção de Foco", "Novo Anti-Kick"],
+  "ChangelogEN": ["Multi-Task Sync", "Focus Fix", "New Anti-Kick"],
+  "ChangelogES": ["Sincronización Multi-Task", "Corrección de Foco", "Nuevo Anti-Kick"],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.zip",
-  "Changelog": [
-    "Sincronização Multi-Task: Jogue em todas as abas ao mesmo tempo (Macro Bot)",
-    "Correção de Foco: Bug do Alt+Tab resolvido para trocas rápidas",
-    "Novo Anti-Kick: Ratos se movem sozinhos em segundo plano para evitar DC",
-    "Social: Agora você aparece 'Jogando QstandX' no seu Discord",
-    "Comunidade: Contador de usuários online em tempo real na Home"
-  ]
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.zip"
 }
