@@ -1,13 +1,15 @@
 {
-  "Version": "1.0.1",
-  "Title": "QstandX - Update",
+  "Version": "1.0.2",
+  "Title": "QstandX - Power Update",
   "Author": "Qhnk",
-  "Description": "Esta versão traz melhorias críticas de performance e novos scripts oficiais.",
+  "Description": "A versão 1.0.2 chegou com foco total em Multi-Tasking e estabilidade! Agora você tem controle total sobre suas abas e integração social.",
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.zip",
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.2/QstandX.zip",
   "Changelog": [
-    "Adicionado sistema de abas ultra-rápido",
-    "Novo motor Flash 2025",
-    "Correção de bugs no Multi-box"
+    "Sincronização Multi-Task: Jogue em todas as abas ao mesmo tempo (Macro Bot)",
+    "Correção de Foco: Bug do Alt+Tab resolvido para trocas rápidas",
+    "Novo Anti-Kick: Ratos se movem sozinhos em segundo plano para evitar DC",
+    "Social: Agora você aparece 'Jogando QstandX' no seu Discord",
+    "Comunidade: Contador de usuários online em tempo real na Home"
   ]
 }
