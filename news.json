@@ -3,9 +3,9 @@
     "TitlePT": "🚀 BEM-VINDO AO QSTAND X",
     "TitleEN": "🚀 WELCOME TO QSTAND X",
     "TitleES": "🚀 BIENVENIDO A QSTAND X",
-    "ContentPT": "Desenvolvido por Qhnk, o QstandX nasceu da necessidade de um launcher moderno e estável após o fim do suporte a outros softwares.",
-    "ContentEN": "Developed by Qhnk, QstandX was born from the need for a modern and stable launcher after support for other software ended.",
-    "ContentES": "Desarrollado por Qhnk, QstandX nació de la necesidad de un launcher moderno y estable tras el fin del soporte de otros softwares.",
+    "ContentPT": "Desenvolvido por Qhnk, o QstandX nasceu da necessidade de um launcher moderno e estável após o fim do suporte a outros softwares. O futuro do Flash é aqui!",
+    "ContentEN": "Developed by Qhnk, QstandX was born from the need for a modern and stable launcher after other software support ended. The future of Flash is here!",
+    "ContentES": "Desarrollado por Qhnk, QstandX nació de la necesidad de un launcher moderno y estable tras el fin del soporte de otros softwares. ¡El futuro de Flash está aquí!",
     "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYDyZueoFbMu2FehB4eKUPzTZJri4NZbEIEA&s",
     "Link": "https://github.com/Qhnk/qstandx"
   },
@@ -13,10 +13,50 @@
     "TitlePT": "⚡ PERFORMANCE BRUTA",
     "TitleEN": "⚡ RAW PERFORMANCE",
     "TitleES": "⚡ RENDIMIENTO BRUTO",
-    "ContentPT": "O QstandX utiliza otimização agressiva de RAM e CPU (Eco Mode), garantindo FPS estável mesmo com 10 abas abertas.",
-    "ContentEN": "QstandX uses aggressive RAM and CPU optimization (Eco Mode), ensuring stable FPS even with 10 tabs open.",
-    "ContentES": "QstandX utiliza una optimización agresiva de RAM y CPU (Eco Mode), lo que garantiza un FPS estable incluso con 10 pestañas abiertas.",
+    "ContentPT": "Por que somos os melhores? O QstandX utiliza otimização agressiva de RAM e CPU (Eco Mode), garantindo que seu FPS fique estável mesmo com 10 abas abertas.",
+    "ContentEN": "Why are we the best? QstandX uses aggressive RAM and CPU optimization (Eco Mode), ensuring your FPS stays stable even with 10 tabs open.",
+    "ContentES": "¿Por qué somos los mejores? QstandX utiliza una optimización agresiva de RAM y CPU (Eco Mode), lo que garantiza un FPS estable incluso con 10 pestañas abiertas.",
     "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-9X0PydgewpfwWkU5-sG5jgvgXA1Fs3eOw&s",
+    "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "TitlePT": "👑 CRIADO POR QUEM JOGA",
+    "TitleEN": "👑 CREATED BY GAMERS",
+    "TitleES": "👑 CREADO POR JUGADORES",
+    "ContentPT": "O Qhnk idealizou este projeto focado na comunidade. Diferente de outros, o QstandX não tem delays de input e possui o sistema Multi-Box mais rápido de 2026.",
+    "ContentEN": "Qhnk designed this project with the community in mind. Unlike others, QstandX has no input lag and features the fastest Multi-Box system of 2026.",
+    "ContentES": "Qhnk ideó este proyecto enfocado en la comunidad. A diferencia de otros, QstandX no tiene retrasos de entrada y cuenta con el sistema Multi-Box más rápido de 2026.",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4x0xZ60iblFKBRUHH5q0uTgBvMKLSW_nUg&s",
+    "Link": "https://discord.gg/9E4Sdrp77W"
+  },
+  {
+    "TitlePT": "🛠️ MULTI-BOX SINCRONIZADO",
+    "TitleEN": "🛠️ SYNCED MULTI-BOX",
+    "TitleES": "🛠️ MULTI-BOX SINCRONIZADO",
+    "ContentPT": "Domine as salas sozinho! Com o nosso sincronizador de teclas, todos os seus personagens seguem seus comandos perfeitamente. Ative nas opções!",
+    "ContentEN": "Master the rooms alone! With our key synchronizer, all your characters follow your commands perfectly. Enable it in the options!",
+    "ContentES": "¡Domina las salas solo! Con nuestro sincronizador de teclas, todos tus personajes siguen tus comandos perfectamente. ¡Actívalo en las opciones!",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BWHIg_2qT7glB4fPG6ZnudtjGDfpXbiEEg&s",
+    "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "TitlePT": "📜 SCRIPTS E CUSTOMIZAÇÃO",
+    "TitleEN": "📜 SCRIPTS & CUSTOMIZATION",
+    "TitleES": "📜 SCRIPTS Y PERSONALIZACIÓN",
+    "ContentPT": "Adicione seus próprios scripts e mude as cores da UI. O QstandX é totalmente maleável para se adaptar ao seu estilo de jogo. Crie sua biblioteca!",
+    "ContentEN": "Add your own scripts and change the UI colors. QstandX is fully customizable to fit your playstyle. Build your own library!",
+    "ContentES": "Añade tus propios scripts y cambia los colores de la interfaz. QstandX es totalmente maleable para adaptarse a tu estilo de juego. ¡Crea tu biblioteca!",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4zAKIVBNWXKDBVVOq34njJw7CgmYR7qHUQ&s",
+    "Link": "https://github.com/Qhnk/qstandx"
+  },
+  {
+    "TitlePT": "🛠️ BUGS",
+    "TitleEN": "🛠️ BUGS",
+    "TitleES": "🛠️ ERRORES",
+    "ContentPT": "O QstandX ainda está em desenvolvimento. É crucial que você REPORTE BUGS para que possamos melhorar a cada dia!",
+    "ContentEN": "QstandX is still in development. It is crucial that you REPORT BUGS so we can improve every day!",
+    "ContentES": "QstandX aún está en desarrollo. ¡Es crucial que REPORTES ERRORES para que podamos mejorar cada día!",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwTYzejaFiJeaRCsUfxbW0-rD9ZrMeI_DwA&s",
     "Link": "https://github.com/Qhnk/qstandx"
   }
 ]
