@@ -23,7 +23,7 @@
 *   ⚡ **Turbo Mode:** Prioridade de processo em tempo real para evitar quedas de FPS.
 *   🧠 **Auto-RAM Optimization:** Limpeza agressiva e automática de cache e memória de trabalho.
 *   📚 **Biblioteca Customizada:** Adicione seus próprios arquivos `.swf` ou links de jogos favoritos.
-*   📜 **Engine de Scripts:** Gerenciador de scripts integrado para automatizar tarefas.
+*   📜 **Engine de Scripts:** Gerenciador de scripts Lua integrado.
 *   🖥️ **Interface Moderna:** UI translúcida com modo Auto-Hide e suporte nativo a Fullscreen (F11).
 *   🛰️ **News Feed:** Integração direta com as notícias do **Area 801**.
 *   🔄 **Auto-Update:** Sistema inteligente que detecta novas versões e atualiza o launcher automaticamente.
