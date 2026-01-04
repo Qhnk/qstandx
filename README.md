@@ -1,14 +1,14 @@
 # 🌌 QstandX 2026
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-00FFFF?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/version-1.0.6-00FFFF?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/C%23-WinForms-purple?style=for-the-badge" alt="Linguagem">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Qhnk/qstandx/releases/download/v1.0.1/QstandX.rar">
-    <img src="https://img.shields.io/badge/BAIXAR_QSTANDX_V1.0.1-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Now">
+  <a href="https://github.com/Qhnk/qstandx/releases/download/v1.0.6/QstandX.zip">
+    <img src="https://img.shields.io/badge/BAIXAR_QSTANDX_V1.0.6-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Now">
   </a>
 </p>
 
