@@ -1,16 +1,431 @@
 [
-  {
-    "Id": "p1",
-    "Name": "Trap Nation - Gamer",
-    "Author": "Trap Nation",
-    "Url": "https://www.youtube.com/playlist?list=PLC1og_v3eb4hrv4wsqG1G5dsNZh9bIscJ",
-    "Banner": "https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg"
-  },
-  {
-    "Id": "p2",
-    "Name": "NCS - No Copyright Sounds",
-    "Author": "QstandX",
-    "Url": "https://www.youtube.com/playlist?list=PLRBp0Fe2Gpgn8Y9qI-p0aTxVtw8onBSFj",
-    "Banner": "https://wallpaperaccess.com/full/8270557.jpg"
-  }
+    {
+        "Id": "p1",
+        "Name": "Trap Nation - Gamer",
+        "Author": "Trap Nation",
+        "Banner": "https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg",
+        "YouTubeUrl": "https://www.youtube.com/playlist?list=PLC1og_v3eb4hrv4wsqG1G5dsNZh9bIscJ",
+        "Tracks": [
+            {
+                "TrackId": "DArzZ3RvejU",
+                "Title": "Alessia Cara - Here (Lucian Remix)",
+                "DirectUrl": "https://files.catbox.moe/zhjmdq.m4a",
+                "DurationSeconds": 208
+            },
+            {
+                "TrackId": "LLuShq1I19w",
+                "Title": "Memphis Cult, Groove Dealers & SPLYXER - 9mm",
+                "DirectUrl": "https://files.catbox.moe/wt2x95.m4a",
+                "DurationSeconds": 88
+            },
+            {
+                "TrackId": "LTMjsgS_c9M",
+                "Title": "Serhat Durmus - Hislerim (feat. Zerrin) 🇹🇷",
+                "DirectUrl": "https://files.catbox.moe/t3q1p0.m4a",
+                "DurationSeconds": 215
+            },
+            {
+                "TrackId": "T7K0pZ9tGi4",
+                "Title": "Two Feet - Go F*ck Yourself",
+                "DirectUrl": "https://files.catbox.moe/zwapmb.m4a",
+                "DurationSeconds": 131
+            },
+            {
+                "TrackId": "s8XIgR5OGJc",
+                "Title": "The Chainsmokers - Don't Let Me Down (Illenium Remix)",
+                "DirectUrl": "https://files.catbox.moe/5rydnl.mp3",
+                "DurationSeconds": 220
+            },
+            {
+                "TrackId": "knfrxj0T5NY",
+                "Title": "Axel Thesleff - Bad Karma",
+                "DirectUrl": "https://files.catbox.moe/1eoxrw.m4a",
+                "DurationSeconds": 417
+            },
+            {
+                "TrackId": "pVLmZMjxfjw",
+                "Title": "Eiffel 65 - Blue (KNY Factory Remix)",
+                "DirectUrl": "https://files.catbox.moe/xel6k1.m4a",
+                "DurationSeconds": 253
+            },
+            {
+                "TrackId": "ntLop32pYd0",
+                "Title": "Diplo - Revolution (feat. Faustix & Imanos and Kai) [SEAN&BOBO Remix]",
+                "DirectUrl": "https://files.catbox.moe/shoggk.m4a",
+                "DurationSeconds": 261
+            },
+            {
+                "TrackId": "0t2tjNqGyJI",
+                "Title": "Twenty One Pilots - Stressed Out (Tomsize Remix)",
+                "DirectUrl": "https://files.catbox.moe/zhjmdq.m4a",
+                "DurationSeconds": 225
+            },
+            {
+                "TrackId": "mKzLoZFz8PE",
+                "Title": "Marshmello - Keep it Mello ft. Omar LinX (Official Music Video)",
+                "DirectUrl": "https://files.catbox.moe/k1skol.m4a",
+                "DurationSeconds": 190
+            },
+            {
+                "TrackId": "5hEh9LiSzow",
+                "Title": "Jetta - I'd Love to Change the World (Matstubs Remix)",
+                "DirectUrl": "https://files.catbox.moe/w2lrm5.m4a",
+                "DurationSeconds": 191
+            },
+            {
+                "TrackId": "vZv9-TWdBJM",
+                "Title": "Dr. Dre - The Next Episode (San Holo Remix)",
+                "DirectUrl": "https://files.catbox.moe/i824q9.m4a",
+                "DurationSeconds": 241
+            },
+            {
+                "TrackId": "WIXjHt8KmUc",
+                "Title": "Zara Larsson - Never Forget You (Price & Takis Remix)",
+                "DirectUrl": "https://files.catbox.moe/pruv1d.m4a",
+                "DurationSeconds": 256
+            },
+            {
+                "TrackId": "qK_NeRZOdq4",
+                "Title": "Ed Sheeran - Shape Of You (BKAYE Remix)",
+                "DirectUrl": "https://files.catbox.moe/wqzcz0.m4a",
+                "DurationSeconds": 218
+            },
+            {
+                "TrackId": "v8B5AOljhsY",
+                "Title": "San Holo - We Rise",
+                "DirectUrl": "https://files.catbox.moe/yeql0f.m4a",
+                "DurationSeconds": 267
+            },
+            {
+                "TrackId": "KlL4xXwRF9U",
+                "Title": "Aywy. & EphRem - Adderall",
+                "DirectUrl": "https://files.catbox.moe/hha2jp.m4a",
+                "DurationSeconds": 190
+            },
+            {
+                "TrackId": "IQTzlGLvCAU",
+                "Title": "Flo Rida - GDFR (K Theory Remix)",
+                "DirectUrl": "https://files.catbox.moe/34qlxo.m4a",
+                "DurationSeconds": 189
+            },
+            {
+                "TrackId": "3_-a9nVZYjk",
+                "Title": "TheFatRat - Xenogenesis (Outro Song)",
+                "DirectUrl": "https://files.catbox.moe/mx5jas.m4a",
+                "DurationSeconds": 234
+            },
+            {
+                "TrackId": "mIUKGKwBRk8",
+                "Title": "Clean Bandit - Rockabye ft. Sean Paul & Anne-Marie (SHAKED Remix)",
+                "DirectUrl": "https://files.catbox.moe/nwmmv6.m4a",
+                "DurationSeconds": "207"
+            },
+            {
+                "TrackId": "qo6ygYSxwEY",
+                "Title": "Gioni - Trigger",
+                "DirectUrl": "https://files.catbox.moe/q4u6wi.m4a",
+                "DurationSeconds": "202"
+            },
+            {
+                "TrackId": "kwW0IAkwIWc",
+                "Title": "Charlie Puth - We Don't Talk Anymore ft. Selena Gomez (BOXINBOX & Lionsize Remix)",
+                "DirectUrl": "https://files.catbox.moe/rx6xy0.m4a",
+                "DurationSeconds": "220"
+            },
+            {
+                "TrackId": "I8mS8Pfgros",
+                "Title": "twenty one pilots - Heathens (DISTO Remix)",
+                "DirectUrl": "https://files.catbox.moe/5rawtb.m4a",
+                "DurationSeconds": "219"
+            },
+            {
+                "TrackId": "9PB30JUOncw",
+                "Title": "Lukas Graham - 7 Years (T-Mass Remix) [feat. Toby Romeo]",
+                "DirectUrl": "https://files.catbox.moe/oeelbp.m4a",
+                "DurationSeconds": "195"
+            },
+            {
+                "TrackId": "BsGnMpSVixg",
+                "Title": "Calvin Harris - Outside ft. Ellie Goulding (Savagez Remix)",
+                "DirectUrl": "https://files.catbox.moe/uy2mjb.m4a",
+                "DurationSeconds": "232"
+            },
+            {
+                "TrackId": "LdQjndOvNn4",
+                "Title": "Galantis - Runaway (U & I) (Gioni Remix)",
+                "DirectUrl": "https://files.catbox.moe/rxngul.m4a",
+                "DurationSeconds": "196"
+            },
+            {
+                "TrackId": "aSJpnjmqGkY",
+                "Title": "Dua Lipa - New Rules (Alison Wonderland Remix)",
+                "DirectUrl": "https://files.catbox.moe/27v21r.m4a",
+                "DurationSeconds": "264"
+            },
+            {
+                "TrackId": "Vyzi-7N58ww",
+                "Title": "Camila Cabello - Havana ft. Young Thug (Lost Sky Remix)",
+                "DirectUrl": "https://files.catbox.moe/32g2cs.m4a",
+                "DurationSeconds": "232"
+            },
+            {
+                "TrackId": "Ewr86bQB8Lc",
+                "Title": "Kid Cudi - Day 'N' Nite (Andrew Luce Remix)",
+                "DirectUrl": "https://files.catbox.moe/57lh5m.m4a",
+                "DurationSeconds": "289"
+            },
+            {
+                "TrackId": "vBdnfyfBSKg",
+                "Title": "Black Coast - TRNDSTTR (Lucian Remix)",
+                "DirectUrl": "https://files.catbox.moe/f7q0f0.m4a",
+                "DurationSeconds": "181"
+            },
+            {
+                "TrackId": "kfE0y1IV8Bc",
+                "Title": "David Guetta feat. Nicki Minaj & Afrojack - Hey Mama (DISTO Remix)",
+                "DirectUrl": "https://files.catbox.moe/xonqla.m4a",
+                "DurationSeconds": "187"
+            },
+            {
+                "TrackId": "Obt-vLEJ8jo",
+                "Title": "Major Lazer & DJ Snake - Lean On feat. MØ (CRNKN Remix)",
+                "DirectUrl": "https://files.catbox.moe/iidu7v.m4a",
+                "DurationSeconds": "205"
+            },
+            {
+                "TrackId": "mBHTXQo65p8",
+                "Title": "Mickey Valen - Meet Me (feat. Noé)",
+                "DirectUrl": "https://files.catbox.moe/x12olt.m4a",
+                "DurationSeconds": "194"
+            },
+            {
+                "TrackId": "gl4PNq6A4BU",
+                "Title": "Zara Larsson - Ain't My Fault (R3hab Remix)",
+                "DirectUrl": "https://files.catbox.moe/heflon.m4a",
+                "DurationSeconds": "160"
+            },
+            {
+                "TrackId": "GHC8Hwq9Eag",
+                "Title": "Miley Cyrus - Wrecking Ball (CAKED UP Remix)",
+                "DirectUrl": "https://files.catbox.moe/4a6t03.m4a",
+                "DurationSeconds": "262"
+            },
+            {
+                "TrackId": "huxX0DmElNU",
+                "Title": "Delax - Drop You Like",
+                "DirectUrl": "https://files.catbox.moe/v9iiqv.m4a",
+                "DurationSeconds": "156"
+            },
+            {
+                "TrackId": "S-l6a34mwWw",
+                "Title": "The Chainsmokers - Closer ft. Halsey (T-Mass Remix)",
+                "DirectUrl": "https://files.catbox.moe/qie31o.m4a",
+                "DurationSeconds": "248"
+            },
+            {
+                "TrackId": "-mSRraXCY9w",
+                "Title": "Lenka - Blue Skies (REVOKE Remix)",
+                "DirectUrl": "https://files.catbox.moe/w1xegl.m4a",
+                "DurationSeconds": "207"
+            },
+            {
+                "TrackId": "Axq1FHwFMrQ",
+                "Title": "Jon Bellion - All Time Low (BOXINBOX & Lionsize Remix)",
+                "DirectUrl": "https://files.catbox.moe/p9heao.m4a",
+                "DurationSeconds": "208"
+            },
+            {
+                "TrackId": "-9T5fLmn7rY",
+                "Title": "Illenium - It's All On U ft. Liam O'Donnell (T-Mass & LZRD Remix)",
+                "DirectUrl": "https://files.catbox.moe/h21jwi.m4a",
+                "DurationSeconds": "206"
+            },
+            {
+                "TrackId": "2BkWNqWvFHs",
+                "Title": "Iggy Azalea - Black Widow (Delay Remix)",
+                "DirectUrl": "https://files.catbox.moe/csl869.m4a",
+                "DurationSeconds": "305"
+            },
+            {
+                "TrackId": "U8T6wocw4so",
+                "Title": "JAEGER - Until Dawn",
+                "DirectUrl": "https://files.catbox.moe/yjjywm.m4a",
+                "DurationSeconds": "288"
+            },
+            {
+                "TrackId": "NLmqqimN_6M",
+                "Title": "Veorra - Run",
+                "DirectUrl": "https://files.catbox.moe/97fweq.m4a",
+                "DurationSeconds": "240"
+            },
+            {
+                "TrackId": "i33DB6R8YUY",
+                "Title": "DJ Snake - Let Me Love You ( BOXINBOX & Lionsize Cover Remix)",
+                "DirectUrl": "https://files.catbox.moe/vo8i5h.m4a",
+                "DurationSeconds": "231"
+            },
+            {
+                "TrackId": "j_z8IFKGvq4",
+                "Title": "Jetta - Take It Easy (Matstubs Remix)",
+                "DirectUrl": "https://files.catbox.moe/s020rz.m4a",
+                "DurationSeconds": "220"
+            },
+            {
+                "TrackId": "EZt6mZ-Te1U",
+                "Title": "Alan Walker - Sing Me To Sleep (Marshmello Remix)",
+                "DirectUrl": "https://files.catbox.moe/h0sp4m.m4a",
+                "DurationSeconds": "189"
+            },
+            {
+                "TrackId": "o5ENzs8Czm0",
+                "Title": "Martin Garrix - Animals (Gioni Trap Remix)",
+                "DirectUrl": "https://files.catbox.moe/i9wvs9.m4a",
+                "DurationSeconds": "238"
+            },
+            {
+                "TrackId": "PMUt0lShZfs",
+                "Title": "twenty one pilots - Ride (Jaydon Lewis Remix)",
+                "DirectUrl": "https://files.catbox.moe/vh8go8.m4a",
+                "DurationSeconds": "246"
+            },
+            {
+                "TrackId": "Fw0R0b2r6pE",
+                "Title": "it's different - Pokemon Ü (feat. Broderick Jones)",
+                "DirectUrl": "https://files.catbox.moe/xr290e.m4a",
+                "DurationSeconds": "194"
+            },
+            {
+                "TrackId": "fHYA3x9p1hk",
+                "Title": "Diplo - Revolution (feat. Faustix & Imanos and Kai) [Gioni Remix]",
+                "DirectUrl": "https://files.catbox.moe/e0xwv2.m4a",
+                "DurationSeconds": "235"
+            },
+            {
+                "TrackId": "vPxf8m93GgY",
+                "Title": "Valesco - Cloud 9",
+                "DirectUrl": "https://files.catbox.moe/boek2c.m4a",
+                "DurationSeconds": "259"
+            },
+            {
+                "TrackId": "xlDLd8MBkeE",
+                "Title": "Lil' Wayne - A Milli (K Theory Remix)",
+                "DirectUrl": "https://files.catbox.moe/l6bafo.m4a",
+                "DurationSeconds": "258"
+            },
+            {
+                "TrackId": "DhCp22tIiTc",
+                "Title": "Naughty Boy - La La La ft. Sam Smith (K Theory Remix)",
+                "DirectUrl": "https://files.catbox.moe/1z017d.m4a",
+                "DurationSeconds": "183"
+            },
+            {
+                "TrackId": "ktw8hcSq2mc",
+                "Title": "Far Out - On My Own (feat. Karra)",
+                "DirectUrl": "https://files.catbox.moe/hkj5jk.m4a",
+                "DurationSeconds": "271"
+            },
+            {
+                "TrackId": "hf4IxNNiqbU",
+                "Title": "Zelda - Song of Storms (Deon Custom Remix)",
+                "DirectUrl": "https://files.catbox.moe/31ds8n.m4a",
+                "DurationSeconds": "217"
+            },
+            {
+                "TrackId": "9gZfHu3sdGY",
+                "Title": "Melanie Martinez - Carousel (KXA Remix)",
+                "DirectUrl": "https://files.catbox.moe/45zbh5.m4a",
+                "DurationSeconds": "181"
+            },
+            {
+                "TrackId": "IT_c3fFW3VM",
+                "Title": "Whethan - Savage (feat. Flux Pavilion & MAX)",
+                "DirectUrl": "https://files.catbox.moe/scufxa.m4a",
+                "DurationSeconds": "206"
+            },
+            {
+                "TrackId": "a5PwMONNGMw",
+                "Title": "Rae Sremmurd - This Could Be Us (Arman Cekin & Ellusive Remix)",
+                "DirectUrl": "https://files.catbox.moe/zr7ac7.m4a",
+                "DurationSeconds": "158"
+            },
+            {
+                "TrackId": "jD0asf_uxKA",
+                "Title": "gnash - i hate u, i love u (ft. olivia o'brien) (XZOXO Remix)",
+                "DirectUrl": "https://files.catbox.moe/ozh8v3.m4a",
+                "DurationSeconds": "270"
+            },
+            {
+                "TrackId": "HRRruUdE-9o",
+                "Title": "Flume - Say It feat. Tove Lo (Illenium Remix)",
+                "DirectUrl": "https://files.catbox.moe/00bkvd.m4a",
+                "DurationSeconds": "268"
+            },
+            {
+                "TrackId": "czd0Er-_qI8",
+                "Title": "WiDE AWAKE - Love Me (feat. Jacob Banks)",
+                "DirectUrl": "https://files.catbox.moe/ldwm0g.m4a",
+                "DurationSeconds": "196"
+            },
+            {
+                "TrackId": "6WbZIoCtBmk",
+                "Title": "WiDE AWAKE - Ready",
+                "DirectUrl": "https://files.catbox.moe/aywwjk.m4a",
+                "DurationSeconds": "199"
+            },
+            {
+                "TrackId": "QcTRc0biGwo",
+                "Title": "Lookas - Samurai",
+                "DirectUrl": "https://files.catbox.moe/fe6cgd.m4a",
+                "DurationSeconds": "221"
+            },
+            {
+                "TrackId": "sIUr3RhjaKY",
+                "Title": "Major Lazer - Cold Water (R3hab vs Skytech Remix)",
+                "DirectUrl": "https://files.catbox.moe/ve8rnq.m4a",
+                "DurationSeconds": "161"
+            },
+            {
+                "TrackId": "PPMW_355CUs",
+                "Title": "Drake - Hotline Bling (Charlie Puth & Kehlani Cover) [Wildfellaz & Arman Cekin Remix]",
+                "DirectUrl": "https://files.catbox.moe/h67myo.m4a",
+                "DurationSeconds": "216"
+            },
+            {
+                "TrackId": "kho6vC6S3kY",
+                "Title": "Lookas - Genesis",
+                "DirectUrl": "https://files.catbox.moe/j1rv81.m4a",
+                "DurationSeconds": "254"
+            },
+            {
+                "TrackId": "6zW5reS2rBI",
+                "Title": "Trey Songz - Na Na (Kush Electricity Remix)",
+                "DirectUrl": "https://files.catbox.moe/ychthr.m4a",
+                "DurationSeconds": "222"
+            },
+            {
+                "TrackId": "Zp2fz99lIAs",
+                "Title": "Major Lazer - Cold Water (Neptunica & Matt Defreitas Remix)",
+                "DirectUrl": "https://files.catbox.moe/56jq8v.m4a",
+                "DurationSeconds": "240"
+            },
+            {
+                "TrackId": "oz6kKB8wlj8",
+                "Title": "KXA - Gladius",
+                "DirectUrl": "https://files.catbox.moe/hm5ggn.m4a",
+                "DurationSeconds": "295"
+            },
+            {
+                "TrackId": "18obFY29_T8",
+                "Title": "Still Young - Midnight (Party Thieves Remix)",
+                "DirectUrl": "https://files.catbox.moe/z8gfb5.m4a",
+                "DurationSeconds": "165"
+            },
+            {
+                "TrackId": "GnQcMBzhr8E",
+                "Title": "Years & Years - King (MACE Remix)",
+                "DirectUrl": "https://files.catbox.moe/c8y73r.m4a",
+                "DurationSeconds": "297"
+            }
+        ]
+    }
 ]
