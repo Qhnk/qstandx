@@ -1,27 +1,30 @@
 {
-  "Version": "1.0.4",
-  "Title": "QstandX - 02/01/2026",
-  "DescriptionPT": "A versão 1.0.4 traz melhorias na interação com as SWFs e ajustes no sistema de janelas.",
-  "DescriptionEN": "Version 1.0.4 brings improvements to SWF interaction and window system adjustments.",
-  "DescriptionES": "La versión 1.0.4 trae mejoras en la interacción con las SWF y ajustes en el sistema de ventanas.",
+  "Version": "1.0.5",
+  "Title": "QstandX - 04/01/2026",
+  "DescriptionPT": "A versão 1.0.5 revoluciona a experiência sonora com o novo Player de Música Ultra-Rápido e integração direta via Catbox.",
+  "DescriptionEN": "Version 1.0.5 revolutionizes the sound experience with the new Ultra-Fast Music Player and direct Catbox integration.",
+  "DescriptionES": "La versión 1.0.5 revoluciona la experiencia sonora con el nuevo reproductor de música ultrarrápido y la integración directa de Catbox.",
   "ChangelogPT": [
-    "Arraste de tela habilitado diretamente pela SWF (Transformice e Darkmice)",
-    "Botão Maximizar corrigido (não entra mais em Fullscreen)",
-    "Melhoria na detecção de motores na pasta engines",
-    "Otimização de foco ao alternar abas"
+    "Novo Player de Música: Carregamento instantâneo de faixas via Catbox (.m4a/.mp3)",
+    "Driver de áudio WASAPI: Latência ultra-baixa e melhor fidelidade sonora",
+    "Correção de Bug: Resolvido o problema de pulo infinito de músicas ao passar de faixa",
+    "Otimização de Streaming: Buffer inteligente para evitar engasgos em conexões instáveis",
+    "Melhoria na UI: Feedback visual de carregamento nas playlists"
   ],
   "ChangelogEN": [
-    "Screen dragging enabled directly via SWF (Transformice & Darkmice)",
-    "Maximize button fixed (no longer triggers Fullscreen)",
-    "Improved engine detection in the engines folder",
-    "Focus optimization when switching tabs"
+    "New Music Player: Instant track loading via Catbox (.m4a/.mp3)",
+    "WASAPI Audio Driver: Ultra-low latency and better sound fidelity",
+    "Bug Fix: Resolved infinite track skipping issue",
+    "Streaming Optimization: Intelligent buffer to prevent stuttering on unstable connections",
+    "UI Improvement: Visual loading feedback on playlists"
   ],
   "ChangelogES": [
-    "Arrastre de pantalla habilitado directamente por la SWF (Transformice y Darkmice)",
-    "Botón Maximizar corregido (ya no activa Pantalla Completa)",
-    "Detección de motores mejorada en la carpeta engines",
-    "Optimización de enfoque al cambiar de pestañas"
+    "Nuevo reproductor de música: carga instantánea de pistas a través de Catbox (.m4a/.mp3)",
+    "Controlador de audio WASAPI: latencia ultrabaja y mejor fidelidad de sonido",
+    "Corrección de errores: se resolvió el problema del salto infinito de pistas",
+    "Optimización de streaming: búfer inteligente para evitar cortes en conexiones inestables",
+    "Mejora de la interfaz: feedback visual de carga en las listas de reproducción"
   ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.4/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.5/QstandX.zip"
 }
