@@ -1,30 +1,24 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "Title": "QstandX - 04/01/2026",
-  "DescriptionPT": "A versão 1.0.5 revoluciona a experiência sonora com o novo Player de Música Ultra-Rápido e integração direta via Catbox.",
-  "DescriptionEN": "Version 1.0.5 revolutionizes the sound experience with the new Ultra-Fast Music Player and direct Catbox integration.",
-  "DescriptionES": "La versión 1.0.5 revoluciona la experiencia sonora con el nuevo reproductor de música ultrarrápido y la integración directa de Catbox.",
+  "DescriptionPT": "A versão 1.0.6 apresenta o Marketplace, um fórum social exclusivo dentro do launcher, e o novo sistema de Player de Música.",
+  "DescriptionEN": "Version 1.0.6 introduces the Marketplace, an exclusive social forum inside the launcher, and the new Music Player system.",
+  "DescriptionES": "La versión 1.0.6 apresenta el Marketplace, un foro social exclusivo dentro del launcher, y el nuevo sistema de Reproductor de Música.",
   "ChangelogPT": [
-    "Novo Player de Música: Carregamento instantâneo de faixas via Catbox (.m4a/.mp3)",
-    "Driver de áudio WASAPI: Latência ultra-baixa e melhor fidelidade sonora",
-    "Correção de Bug: Resolvido o problema de pulo infinito de músicas ao passar de faixa",
-    "Otimização de Streaming: Buffer inteligente para evitar engasgos em conexões instáveis",
-    "Melhoria na UI: Feedback visual de carregamento nas playlists"
+    "Marketplace: Fórum interno para interação, anúncios e trocas entre jogadores.",
+    "Music Player: Ouça suas playlists favoritas diretamente pelo QstandX.",
+    "Estabilidade: Melhorias no sistema de conexão social."
   ],
   "ChangelogEN": [
-    "New Music Player: Instant track loading via Catbox (.m4a/.mp3)",
-    "WASAPI Audio Driver: Ultra-low latency and better sound fidelity",
-    "Bug Fix: Resolved infinite track skipping issue",
-    "Streaming Optimization: Intelligent buffer to prevent stuttering on unstable connections",
-    "UI Improvement: Visual loading feedback on playlists"
+    "Marketplace: Internal forum for interaction, announcements, and trading between players.",
+    "Music Player: Listen to your favorite playlists directly through QstandX.",
+    "Stability: Improvements to the social connection system."
   ],
   "ChangelogES": [
-    "Nuevo reproductor de música: carga instantánea de pistas a través de Catbox (.m4a/.mp3)",
-    "Controlador de audio WASAPI: latencia ultrabaja y mejor fidelidad de sonido",
-    "Corrección de errores: se resolvió el problema del salto infinito de pistas",
-    "Optimización de streaming: búfer inteligente para evitar cortes en conexiones inestables",
-    "Mejora de la interfaz: feedback visual de carga en las listas de reproducción"
+    "Marketplace: Foro interno para interacción, anuncios e intercambios entre jugadores.",
+    "Reproductor de Música: Escucha tus listas de reproducción favoritas directamente en QstandX.",
+    "Estabilidad: Mejoras en el sistema de conexión social."
   ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.5/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.6/QstandX.zip"
 }
