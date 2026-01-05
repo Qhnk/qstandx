@@ -1,8 +1,8 @@
 
 {
   "replacements": [
-    { "key": "x_52.jpg", "newUrl": "https://files.catbox.moe/abc123.jpg" },
-    { "key": "x_banniere", "newUrl": "https://meu-site.com/fundo.png" },
-    { "key": "logo_atelier.png", "newUrl": "https://github.com/seu-user/img/raw/main/custom_logo.png" }
+    { "key": "x_52.jpg", "newUrl": "https://raw.githubusercontent.com/Qhnk/qstandx/refs/heads/main/x_2.jpg" },
+    { "key": "x_banniere", "newUrl": "https://raw.githubusercontent.com/Qhnk/qstandx/refs/heads/main/x_2.jpg" },
+    { "key": "logo_atelier.png", "newUrl": "https://raw.githubusercontent.com/Qhnk/qstandx/refs/heads/main/x_2.jpg" }
   ]
 }
