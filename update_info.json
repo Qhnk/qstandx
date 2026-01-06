@@ -1,24 +1,27 @@
 {
-  "Version": "1.0.6",
-  "Title": "QstandX - 04/01/2026",
-  "DescriptionPT": "A versão 1.0.6 apresenta o Marketplace, um fórum social exclusivo dentro do launcher, e o novo sistema de Player de Música.",
-  "DescriptionEN": "Version 1.0.6 introduces the Marketplace, an exclusive social forum inside the launcher, and the new Music Player system.",
-  "DescriptionES": "La versión 1.0.6 apresenta el Marketplace, un foro social exclusivo dentro del launcher, y el nuevo sistema de Reproductor de Música.",
+  "Version": "1.0.7",
+  "Title": "QstandX - Social Update",
+  "DescriptionPT": "A versão 1.0.7 traz a evolução social do QstandX! Agora você pode personalizar seu perfil, adicionar amigos e desbloquear conquistas com títulos exclusivos.",
+  "DescriptionEN": "Version 1.0.7 brings the social evolution of QstandX! Now you can customize your profile, add friends, and unlock achievements with exclusive titles.",
+  "DescriptionES": "¡La versión 1.0.7 trae la evolución social de QstandX! Ahora puedes personalizar tu perfil, agregar amigos y desbloquear logros con títulos exclusivos.",
   "ChangelogPT": [
-    "Marketplace: Fórum interno para interação, anúncios e trocas entre jogadores.",
-    "Music Player: Ouça suas playlists favoritas diretamente pelo QstandX.",
-    "Estabilidade: Melhorias no sistema de conexão social."
+    "Perfil: Personalize seu avatar, bio e escolha seus títulos conquistados.",
+    "Lista de Amigos: Adicione jogadores, veja quem está online e o que estão jogando.",
+    "Conquistas: Novo sistema de desafios com aviso visual e sonoro.",
+    "Títulos: Desbloqueie e exiba títulos especiais ao completar metas no launcher."
   ],
   "ChangelogEN": [
-    "Marketplace: Internal forum for interaction, announcements, and trading between players.",
-    "Music Player: Listen to your favorite playlists directly through QstandX.",
-    "Stability: Improvements to the social connection system."
+    "Profile: Customize your avatar, bio, and choose your earned titles.",
+    "Friend List: Add players, see who's online and what they're playing.",
+    "Achievements: New challenge system with visual and sound notifications.",
+    "Titles: Unlock and display special titles by completing launcher goals."
   ],
   "ChangelogES": [
-    "Marketplace: Foro interno para interacción, anuncios e intercambios entre jugadores.",
-    "Reproductor de Música: Escucha tus listas de reproducción favoritas directamente en QstandX.",
-    "Estabilidad: Mejoras en el sistema de conexión social."
+    "Perfil: Personaliza tu avatar, biografía y elige tus títulos ganados.",
+    "Lista de Amigos: Agrega jugadores, mira quién está en línea y que estão jugando.",
+    "Logros: Nuevo sistema de desafíos con notificaciones visuales y sonoras.",
+    "Títulos: Desbloquea y muestra títulos especiales al completar metas en el launcher."
   ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.6/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.7/QstandX.zip"
 }
