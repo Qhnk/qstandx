@@ -24,6 +24,18 @@
     "ValorReq": 300
   },
   {
+    "Id": "stay_20min",
+    "NomePT": "Visitante Frequente",
+    "NomeEN": "Frequent Visitor",
+    "NomeES": "Visitante Frecuente",
+    "DescPT": "Manteve o QstandX aberto por 20 minutos.",
+    "DescEN": "Kept QstandX open for 20 minutes.",
+    "DescES": "Mantuvo QstandX abierto por 20 minutos.",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/3563/3563417.png",
+    "TipoReq": "tempo_launcher",
+    "ValorReq": 1200
+  },
+  {
     "Id": "stay_1h",
     "NomePT": "Morador Antigo",
     "NomeEN": "Old Dweller",
@@ -66,7 +78,7 @@
     "NomeES": "Elegante",
     "DescPT": "Adicionou uma foto personalizada ao seu perfil.",
     "DescEN": "Added a custom photo to your profile.",
-    "DescES": "Añadió una foto personalizada a su perfil.",
+    "DescES": "Añadió uma foto personalizada a su perfil.",
     "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWC_ePsWFETslNjKtXVysDTItR-uxpaaaP7w&s",
     "TipoReq": "evento",
     "ValorReq": 0
@@ -76,9 +88,9 @@
     "NomePT": "Crítico Social",
     "NomeEN": "Social Critic",
     "NomeES": "Crítico Social",
-    "DescPT": "Fez o seu primeiro comentário no Marketplace.",
-    "DescEN": "Made your first comment on the Marketplace.",
-    "DescES": "Hizo su primer comentario en el Marketplace.",
+    "DescPT": "Fez o seu primeiro comentário.",
+    "DescEN": "Made your first comment.",
+    "DescES": "Hizo su primer comentario.",
     "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO0JBscm25yoR_7O1IB_ZxuqYmpcBQgUM4w&s",
     "TipoReq": "evento",
     "ValorReq": 0
