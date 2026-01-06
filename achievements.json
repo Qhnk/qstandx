@@ -102,5 +102,18 @@
     "TipoReq": "evento",
     "ValorReq": 0,
     "RecompensaTitulo": "Insone"
-  }
+  },
+  {
+  "Id": "staff_special",
+  "NomePT": "Autoridade Máxima",
+  "NomeEN": "Maximum Authority",
+  "NomeES": "Autoridad Máxima",
+  "DescPT": "Você faz parte da equipe oficial do QstandX!",
+  "DescEN": "You are part of the official QstandX team!",
+  "DescES": "¡Eres parte del equipo oficial de QstandX!",
+  "Insignia": "https://cdn-icons-png.flaticon.com/512/1063/1063196.png",
+  "TipoReq": "is_staff",
+  "ValorReq": 1,
+  "RecompensaTitulo": "Fromadmin"
+}
 ]
