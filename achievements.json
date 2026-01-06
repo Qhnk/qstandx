@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "first_login",
+    "NomePT": "Bem-vindo ao QstandX",
+    "NomeEN": "Welcome to QstandX",
+    "NomeES": "Bienvenido a QstandX",
+    "DescPT": "Você iniciou o launcher pela primeira vez!",
+    "DescEN": "You started the launcher for the first time!",
+    "DescES": "¡Has iniciado el launcher por primera vez!",
+    "Insignia": "https://member.aorus.com/assets/images/badge/13-count-me-in.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  }
+]
