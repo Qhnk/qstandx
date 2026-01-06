@@ -7,7 +7,67 @@
     "DescPT": "Você iniciou o launcher pela primeira vez!",
     "DescEN": "You started the launcher for the first time!",
     "DescES": "¡Has iniciado el launcher por primera vez!",
-    "Insignia": "https://member.aorus.com/assets/images/badge/13-count-me-in.png",
+    "Insignia": "https://i.imgur.com/n9Y7FhY.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  },
+  {
+    "Id": "stay_5min",
+    "NomePT": "Residência Fixa",
+    "NomeEN": "Resident",
+    "NomeES": "Residente",
+    "DescPT": "Manteve o QstandX aberto por mais de 5 minutos.",
+    "DescEN": "Kept QstandX open for more than 5 minutes.",
+    "DescES": "Mantuvo QstandX abierto por más de 5 minutos.",
+    "Insignia": "https://i.imgur.com/vH97vB7.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  },
+  {
+    "Id": "linked_nick",
+    "NomePT": "Identidade Revelada",
+    "NomeEN": "Identity Revealed",
+    "NomeES": "Identidad Revelada",
+    "DescPT": "Você vinculou um Nickname ao seu ID pela primeira vez.",
+    "DescEN": "You linked a Nickname to your ID for the first time.",
+    "DescES": "¡Has vinculado un apodo a su ID por primera vez!",
+    "Insignia": "https://i.imgur.com/39hN7hG.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  },
+  {
+    "Id": "profile_pic",
+    "NomePT": "Estiloso",
+    "NomeEN": "Stylish",
+    "NomeES": "Elegante",
+    "DescPT": "Adicionou uma foto personalizada ao seu perfil.",
+    "DescEN": "Added a custom photo to your profile.",
+    "DescES": "Añadió una foto personalizada a su perfil.",
+    "Insignia": "https://i.imgur.com/S6mN7uK.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  },
+  {
+    "Id": "first_comment",
+    "NomePT": "Crítico Social",
+    "NomeEN": "Social Critic",
+    "NomeES": "Crítico Social",
+    "DescPT": "Fez o seu primeiro comentário no Marketplace.",
+    "DescEN": "Made your first comment on the Marketplace.",
+    "DescES": "Hizo su primer comentario en el Marketplace.",
+    "Insignia": "https://i.imgur.com/X9hN7mJ.png",
+    "TipoReq": "evento",
+    "ValorReq": 0
+  },
+  {
+    "Id": "first_song",
+    "NomePT": "Melômano",
+    "NomeEN": "Melomaniac",
+    "NomeES": "Melómano",
+    "DescPT": "Ouviu sua primeira música no rádio do QstandX.",
+    "DescEN": "Listened to your first song on QstandX radio.",
+    "DescES": "Escuchó su primera música en la radio de QstandX.",
+    "Insignia": "https://i.imgur.com/B9hN7vR.png",
     "TipoReq": "evento",
     "ValorReq": 0
   }
