@@ -7,7 +7,7 @@
     "DescPT": "Você iniciou o launcher pela primeira vez!",
     "DescEN": "You started the launcher for the first time!",
     "DescES": "¡Has iniciado el launcher por primera vez!",
-    "Insignia": "https://i.imgur.com/n9Y7FhY.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXteRtMSvsEm9OQnJjHjivMxAKYNg3-lNEGw&s",
     "TipoReq": "evento",
     "ValorReq": 0
   },
@@ -19,7 +19,7 @@
     "DescPT": "Manteve o QstandX aberto por mais de 5 minutos.",
     "DescEN": "Kept QstandX open for more than 5 minutes.",
     "DescES": "Mantuvo QstandX abierto por más de 5 minutos.",
-    "Insignia": "https://i.imgur.com/vH97vB7.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVUc9HPU4hMaN-5PjNxWJpxYDotdL6BCljpA&s",
     "TipoReq": "evento",
     "ValorReq": 0
   },
@@ -31,7 +31,7 @@
     "DescPT": "Você vinculou um Nickname ao seu ID pela primeira vez.",
     "DescEN": "You linked a Nickname to your ID for the first time.",
     "DescES": "¡Has vinculado un apodo a su ID por primera vez!",
-    "Insignia": "https://i.imgur.com/39hN7hG.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdwVRbBdbV8prg18ao7o_zzzDwOFodVrPRA&s",
     "TipoReq": "evento",
     "ValorReq": 0
   },
@@ -43,7 +43,7 @@
     "DescPT": "Adicionou uma foto personalizada ao seu perfil.",
     "DescEN": "Added a custom photo to your profile.",
     "DescES": "Añadió una foto personalizada a su perfil.",
-    "Insignia": "https://i.imgur.com/S6mN7uK.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWC_ePsWFETslNjKtXVysDTItR-uxpaaaP7w&s",
     "TipoReq": "evento",
     "ValorReq": 0
   },
@@ -55,7 +55,7 @@
     "DescPT": "Fez o seu primeiro comentário no Marketplace.",
     "DescEN": "Made your first comment on the Marketplace.",
     "DescES": "Hizo su primer comentario en el Marketplace.",
-    "Insignia": "https://i.imgur.com/X9hN7mJ.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO0JBscm25yoR_7O1IB_ZxuqYmpcBQgUM4w&s",
     "TipoReq": "evento",
     "ValorReq": 0
   },
@@ -67,7 +67,7 @@
     "DescPT": "Ouviu sua primeira música no rádio do QstandX.",
     "DescEN": "Listened to your first song on QstandX radio.",
     "DescES": "Escuchó su primera música en la radio de QstandX.",
-    "Insignia": "https://i.imgur.com/B9hN7vR.png",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfaknjuCefbtMdEk7GnLwVrn0aRpfBH2JXw&s",
     "TipoReq": "evento",
     "ValorReq": 0
   }
