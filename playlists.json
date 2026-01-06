@@ -12376,5 +12376,1427 @@
                 "DurationSeconds": " Drumstep "
             }
         ]
+    },
+    {
+        "Id": "p7",
+        "Name": "Classics Songs",
+        "Author": "Qhnk",
+        "Banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQta8KEHYK2UImi1_0H-zSn_OA8nweuYkaQQg&s",
+        "YouTubeUrl": "https://www.youtube.com/playlist?list=PLenGc88ZarjddtzPtQwL_hlbcrkmQ85ye",
+        "Tracks": [
+            {
+                "TrackId": "c7O91GDWGPU",
+                "Title": "Rossini: William Tell Overture: Final",
+                "DirectUrl": "https://files.catbox.moe/uwd7i8.m4a",
+                "DurationSeconds": 204
+            },
+            {
+                "TrackId": "Qb_jQBgzU-I",
+                "Title": "Mozart \"Eine kleine Nachtmusik\" I. Allegro",
+                "DirectUrl": "https://files.catbox.moe/g1n58v.m4a",
+                "DurationSeconds": 348
+            },
+            {
+                "TrackId": "ho9rZjlsyYY",
+                "Title": "Toccata and Fugue in D Minor (Best Version Ever)",
+                "DirectUrl": "https://files.catbox.moe/h9wcfz.m4a",
+                "DurationSeconds": 561
+            },
+            {
+                "TrackId": "8Af372EQLck",
+                "Title": "Johann Pachelbel - Canon in D Major",
+                "DirectUrl": "https://files.catbox.moe/10kzwd.m4a",
+                "DurationSeconds": 234
+            },
+            {
+                "TrackId": "VbxgYlcNxE8",
+                "Title": "Tchaikovsky - 1812 Overture (Full with Cannons)",
+                "DirectUrl": "https://files.catbox.moe/3cwosu.m4a",
+                "DurationSeconds": 909
+            },
+            {
+                "TrackId": "_4IRMYuE1hI",
+                "Title": "Beethoven's 5th Symphony",
+                "DirectUrl": "https://files.catbox.moe/08zoen.m4a",
+                "DurationSeconds": 425
+            },
+            {
+                "TrackId": "IDaJ7rFg66A",
+                "Title": "André Rieu - The Beautiful Blue Danube",
+                "DirectUrl": "https://files.catbox.moe/dy701m.m4a",
+                "DurationSeconds": 494
+            },
+            {
+                "TrackId": "SLuW-GBaJ8k",
+                "Title": "Richard Strauss - Also Sprach Zarathustra / 2001 Space Odyssey opening theme",
+                "DirectUrl": "https://files.catbox.moe/gpildr.m4a",
+                "DurationSeconds": 108
+            },
+            {
+                "TrackId": "GXFSK0ogeg4",
+                "Title": "Carl Orff - O Fortuna ~ Carmina Burana",
+                "DirectUrl": "https://files.catbox.moe/ufstm0.m4a",
+                "DurationSeconds": 322
+            },
+            {
+                "TrackId": "usfiAsWR4qU",
+                "Title": "Händel Messiah - Hallelujah Chorus",
+                "DirectUrl": "https://files.catbox.moe/f01ccu.m4a",
+                "DurationSeconds": 242
+            },
+            {
+                "TrackId": "okQRnHvw3is",
+                "Title": "Offenbach - Infernal Galop",
+                "DirectUrl": "https://files.catbox.moe/mlnyhy.m4a",
+                "DurationSeconds": 318
+            },
+            {
+                "TrackId": "4DNGMoMNLRY",
+                "Title": "Georges Bizet - \"Les Toreadors\" from Carmen Suite No. 1",
+                "DirectUrl": "https://files.catbox.moe/8pg1rn.m4a",
+                "DurationSeconds": 141
+            },
+            {
+                "TrackId": "gqg3l3r_DRI",
+                "Title": "Aram Khachaturian - Sabre Dance",
+                "DirectUrl": "https://files.catbox.moe/odquqe.m4a",
+                "DurationSeconds": 151
+            },
+            {
+                "TrackId": "Wod-MudLNPA",
+                "Title": "BEETHOVEN.ODE TO JOY",
+                "DirectUrl": "https://files.catbox.moe/w3jth1.m4a",
+                "DurationSeconds": 220
+            },
+            {
+                "TrackId": "xrIYT-MrVaI",
+                "Title": "Edvard Grieg, In the Hall of the Mountain King from \"Peer Gynt\"",
+                "DirectUrl": "https://files.catbox.moe/bcu6aa.m4a",
+                "DurationSeconds": 155
+            },
+            {
+                "TrackId": "moL4MkJ-aLk",
+                "Title": "Sir Edward Elgar - Pomp and Circumstance March No.1",
+                "DirectUrl": "https://files.catbox.moe/19rzvv.m4a",
+                "DurationSeconds": 372
+            },
+            {
+                "TrackId": "W3ILbnHhAzk",
+                "Title": "Amilcare Ponchielli - Dance of the Hours",
+                "DirectUrl": "https://files.catbox.moe/i1irkn.m4a",
+                "DurationSeconds": 571
+            },
+            {
+                "TrackId": "4tDYMayp6Dk",
+                "Title": "Mendelssohn's Wedding March",
+                "DirectUrl": "https://files.catbox.moe/ry1w4s.m4a",
+                "DurationSeconds": 112
+            },
+            {
+                "TrackId": "aYAJopwEYv8",
+                "Title": "Rimsky Korsakov - Flight of the Bumblebee",
+                "DirectUrl": "https://files.catbox.moe/khqweo.m4a",
+                "DurationSeconds": 206
+            },
+            {
+                "TrackId": "ynEOo28lsbc",
+                "Title": "Rhapsody In Blue: Gershwin",
+                "DirectUrl": "https://files.catbox.moe/5muhs6.m4a",
+                "DurationSeconds": 987
+            },
+            {
+                "TrackId": "LwLABSm0yYc",
+                "Title": "André Rieu - Boléro (Ravel)",
+                "DirectUrl": "https://files.catbox.moe/0yevmp.m4a",
+                "DurationSeconds": 417
+            },
+            {
+                "TrackId": "Wz_f9B4pPtg",
+                "Title": "Pyotr Ilyich Tchaikovsky / Nina Kaptsova - Dance of the Sugar Plum Fairy / 2010",
+                "DirectUrl": "https://files.catbox.moe/xykbbx.m4a",
+                "DurationSeconds": 212
+            },
+            {
+                "TrackId": "goeOUTRy2es",
+                "Title": "Franz Liszt - Hungarian Rhapsody No.2 (Orchestra version)",
+                "DirectUrl": "https://files.catbox.moe/pfybl2.m4a",
+                "DurationSeconds": 632
+            },
+            {
+                "TrackId": "4Tr0otuiQuU",
+                "Title": "Beethoven - Moonlight Sonata (FULL)",
+                "DirectUrl": "https://files.catbox.moe/59snlt.m4a",
+                "DurationSeconds": 900
+            },
+            {
+                "TrackId": "QzCCQZFDkJk",
+                "Title": "Juventino Rosas - Over the Waves Waltz (Vals sobre las Olas)",
+                "DirectUrl": "https://files.catbox.moe/5r97rk.m4a",
+                "DurationSeconds": 365
+            },
+            {
+                "TrackId": "-bzWSJG93P8",
+                "Title": "Star Wars- The Imperial March (Darth Vader's Theme)",
+                "DirectUrl": "https://files.catbox.moe/oa7j3m.m4a",
+                "DurationSeconds": 187
+            },
+            {
+                "TrackId": "_B0CyOAO8y0",
+                "Title": "Julius Fucik - Entry of the Gladiators",
+                "DirectUrl": "https://files.catbox.moe/8jv1um.m4a",
+                "DurationSeconds": 186
+            },
+            {
+                "TrackId": "wneUNq_Ndbw",
+                "Title": "Paul Abraham Dukas - Sorcerer's Apprentice",
+                "DirectUrl": "https://files.catbox.moe/t7f5qw.m4a",
+                "DurationSeconds": 566
+            },
+            {
+                "TrackId": "LsReWx9XdNs",
+                "Title": "Aaron Copland - Hoedown",
+                "DirectUrl": "https://files.catbox.moe/1n3236.m4a",
+                "DurationSeconds": 206
+            },
+            {
+                "TrackId": "KJ_HHRJf0xg",
+                "Title": "Carmen - Habanera (Bizet; Anna Caterina Antonacci, The Royal Opera)",
+                "DirectUrl": "https://files.catbox.moe/cn55o0.m4a",
+                "DurationSeconds": 131
+            },
+            {
+                "TrackId": "QxHkLdQy5f0",
+                "Title": "Tchaikovsky - Waltz of the Flowers",
+                "DirectUrl": "https://files.catbox.moe/ynl41g.m4a",
+                "DurationSeconds": 451
+            },
+            {
+                "TrackId": "7AlEvy0fJto",
+                "Title": "Richard Wagner - The ride of the Valkyries from \"Die Walküre\"",
+                "DirectUrl": "https://files.catbox.moe/izxohj.m4a",
+                "DurationSeconds": 291
+            },
+            {
+                "TrackId": "28sdV_DXSrU",
+                "Title": "Marcha fúnebre - Chopin",
+                "DirectUrl": "https://files.catbox.moe/p60lvq.m4a",
+                "DurationSeconds": 559
+            },
+            {
+                "TrackId": "quxTnEEETbo",
+                "Title": "Rondo Alla Turca- Mozart",
+                "DirectUrl": "https://files.catbox.moe/8put8c.m4a",
+                "DurationSeconds": 209
+            },
+            {
+                "TrackId": "kSE15tLBdso",
+                "Title": "Luigi Boccherini: Minuetto (classical)",
+                "DirectUrl": "https://files.catbox.moe/ybucs2.m4a",
+                "DurationSeconds": 215
+            },
+            {
+                "TrackId": "Mqmbz8W1-tA",
+                "Title": "Karl Jenkins- Palladio",
+                "DirectUrl": "https://files.catbox.moe/a45goe.m4a",
+                "DurationSeconds": 227
+            },
+            {
+                "TrackId": "iCEDfZgDPS8",
+                "Title": "Mussorgsky - Night on Bald Mountain",
+                "DirectUrl": "https://files.catbox.moe/vqlhij.m4a",
+                "DurationSeconds": 581
+            },
+            {
+                "TrackId": "ikQNFqVkNNc",
+                "Title": "Mozart - The Marriage of Figaro (Overture)",
+                "DirectUrl": "https://files.catbox.moe/srkq8l.m4a",
+                "DurationSeconds": 268
+            },
+            {
+                "TrackId": "P6rX3wlDsVI",
+                "Title": "Wagner's Bridal Chorus (Pipe Organ Solo)",
+                "DirectUrl": "https://files.catbox.moe/7x6k5c.m4a",
+                "DurationSeconds": 114
+            },
+            {
+                "TrackId": "M5bcpjUjLpU",
+                "Title": "The Stars and Stripes Forever - With Lyrics",
+                "DirectUrl": "https://files.catbox.moe/x73ots.m4a",
+                "DurationSeconds": 208
+            },
+            {
+                "TrackId": "zSXRJwspGU0",
+                "Title": "Beethoven - Minuet in G",
+                "DirectUrl": "https://files.catbox.moe/m7qkbj.m4a",
+                "DurationSeconds": 156
+            },
+            {
+                "TrackId": "izQsgE0L450",
+                "Title": "Samuel Barber - Adagio for Strings",
+                "DirectUrl": "https://files.catbox.moe/uo5yp5.m4a",
+                "DurationSeconds": 482
+            },
+            {
+                "TrackId": "h94BdxnheeM",
+                "Title": "Tchaikovsky - Dance of the Reed Flutes - The Nutcracker Suite",
+                "DirectUrl": "https://files.catbox.moe/xdirvw.m4a",
+                "DurationSeconds": 149
+            },
+            {
+                "TrackId": "IizWc4cJwbw",
+                "Title": "Olympic Anthem - Bugler's Dream\" - composed by Leo Arnaud",
+                "DirectUrl": "https://files.catbox.moe/48tw3a.m4a",
+                "DurationSeconds": 267
+            },
+            {
+                "TrackId": "rrVDATvUitA",
+                "Title": "Air - Johann Sebastian Bach",
+                "DirectUrl": "https://files.catbox.moe/zmmn19.m4a",
+                "DurationSeconds": 339
+            },
+            {
+                "TrackId": "GRxofEmo3HA",
+                "Title": "Four Seasons ~ Vivaldi",
+                "DirectUrl": "https://files.catbox.moe/25boaz.m4a",
+                "DurationSeconds": 2520
+            },
+            {
+                "TrackId": "z2ISRMSIyX8",
+                "Title": "Tchaikovsky Nutcracker Suite - Russian Dance Trepak",
+                "DirectUrl": "https://files.catbox.moe/drexe9.m4a",
+                "DurationSeconds": 78
+            },
+            {
+                "TrackId": "WZQG-DZy7uY",
+                "Title": "Jean-Joseph Mouret: Rondeau from \"Sinfonie de Fanfares\"",
+                "DirectUrl": "https://files.catbox.moe/ksq7ub.m4a",
+                "DurationSeconds": 142
+            },
+            {
+                "TrackId": "TKDXr_fimQ8",
+                "Title": "Il barbiere di siviglia \"Largo al factotum\"",
+                "DirectUrl": "https://files.catbox.moe/osi8wx.m4a",
+                "DurationSeconds": 327
+            },
+            {
+                "TrackId": "t894eGoymio",
+                "Title": "Johannes Brahms - Lullaby",
+                "DirectUrl": "https://files.catbox.moe/r4pjd0.m4a",
+                "DurationSeconds": 182
+            },
+            {
+                "TrackId": "4NjssV8UuVA",
+                "Title": "Aaron Copland - Fanfare For The Common Man",
+                "DirectUrl": "https://files.catbox.moe/1vxbx7.m4a",
+                "DurationSeconds": 208
+            },
+            {
+                "TrackId": "3X9LvC9WkkQ",
+                "Title": "Johannes Brahms - Hungarian Dance No. 5",
+                "DirectUrl": "https://files.catbox.moe/j8rozi.m4a",
+                "DurationSeconds": 202
+            },
+            {
+                "TrackId": "YAOTCtW9v0M",
+                "Title": "Beethoven Symphony No.9",
+                "DirectUrl": "https://files.catbox.moe/cbrn8q.m4a",
+                "DurationSeconds": 418
+            },
+            {
+                "TrackId": "BWerj8FcprM",
+                "Title": "Tchaikovsky - Piano Concerto 1 (B Flat Minor)",
+                "DirectUrl": "https://files.catbox.moe/8b8ai6.m4a",
+                "DurationSeconds": 551
+            },
+            {
+                "TrackId": "XXIu0MRuIQU",
+                "Title": "Mozart - The Piano Sonata No 16 in C major",
+                "DirectUrl": "https://files.catbox.moe/hctz9m.m4a",
+                "DurationSeconds": 554
+            },
+            {
+                "TrackId": "llA1xOFRYj0",
+                "Title": "Tchaikovsky - Chinese Dance - The Nutcracker Suite",
+                "DirectUrl": "https://files.catbox.moe/0sbdjo.m4a",
+                "DurationSeconds": 95
+            },
+            {
+                "TrackId": "ctsWdUaHsHM",
+                "Title": "Prokofiev - Peter and the Wolf March",
+                "DirectUrl": "https://files.catbox.moe/a44mrh.m4a",
+                "DurationSeconds": 247
+            },
+            {
+                "TrackId": "-TGKJ9MgCOQ",
+                "Title": "George Frideric Handel - The Arrival of the Queen of Sheba",
+                "DirectUrl": "https://files.catbox.moe/tge8w1.m4a",
+                "DurationSeconds": 210
+            },
+            {
+                "TrackId": "xCFEk6Y8TmM",
+                "Title": "Luciano Pavarotti - La Donna È Mobile (Rigoletto)",
+                "DirectUrl": "https://files.catbox.moe/vcbb23.m4a",
+                "DurationSeconds": 171
+            },
+            {
+                "TrackId": "jKSg8t4zyLg",
+                "Title": "J. S. Bach: Bourree in e-minor BWV 996 @Per-Olov Kindgren  guitar",
+                "DirectUrl": "https://files.catbox.moe/pyeorh.m4a",
+                "DurationSeconds": 94
+            },
+            {
+                "TrackId": "AsD0FDLOKGA",
+                "Title": "The Carnival of the Animals: The Aquarium",
+                "DirectUrl": "https://files.catbox.moe/zkz4h6.m4a",
+                "DurationSeconds": 161
+            },
+            {
+                "TrackId": "j1C-GXQ1LdY",
+                "Title": "mozart - dies irae",
+                "DirectUrl": "https://files.catbox.moe/slv8u5.m4a",
+                "DurationSeconds": 111
+            },
+            {
+                "TrackId": "h1j5IxOPXdY",
+                "Title": "Tchaikovsky - The Nutcracker - Marche",
+                "DirectUrl": "https://files.catbox.moe/5ti4mp.m4a",
+                "DurationSeconds": 156
+            },
+            {
+                "TrackId": "aF5nhMIyeqI",
+                "Title": "Franz von Suppé - Light Cavalry - Overture",
+                "DirectUrl": "https://files.catbox.moe/hd60cw.m4a",
+                "DurationSeconds": 403
+            },
+            {
+                "TrackId": "x7FD9PNpfpo",
+                "Title": "SOUSA The Liberty Bell - \"The President's Own\" U.S. Marine Band",
+                "DirectUrl": "https://files.catbox.moe/g8ryw3.m4a",
+                "DurationSeconds": 273
+            },
+            {
+                "TrackId": "2Sb8WCPjPDs",
+                "Title": "Tchaikovsky - Sleeping Beauty Waltz",
+                "DirectUrl": "https://files.catbox.moe/pqgh5q.m4a",
+                "DurationSeconds": 266
+            },
+            {
+                "TrackId": "-hJf4ZffkoI",
+                "Title": "Mozart Symphony #40 in G Minor, K 550 - 1. Molto Allegro",
+                "DirectUrl": "https://files.catbox.moe/83r6vb.m4a",
+                "DurationSeconds": 496
+            },
+            {
+                "TrackId": "pOCxegQupMU",
+                "Title": "Sousa - The Washington Post March",
+                "DirectUrl": "https://files.catbox.moe/gnh964.m4a",
+                "DurationSeconds": 154
+            },
+            {
+                "TrackId": "xvWLMkxSwIo",
+                "Title": "Colonel Bogey March",
+                "DirectUrl": "https://files.catbox.moe/v5hb2n.m4a",
+                "DurationSeconds": 191
+            },
+            {
+                "TrackId": "VmLsvQaxw3g",
+                "Title": "Romeo and Juliet Overture: Love Theme",
+                "DirectUrl": "https://files.catbox.moe/ajwaur.m4a",
+                "DurationSeconds": 659
+            },
+            {
+                "TrackId": "OloXRhesab0",
+                "Title": "Gioachino Rossini - The Barber Of Seville - Overture",
+                "DirectUrl": "https://files.catbox.moe/4qcunu.m4a",
+                "DurationSeconds": 468
+            },
+            {
+                "TrackId": "z1088E6E2fY",
+                "Title": "Jeremiah Clarke - The Prince of Denmark's March (Lovely Rendition)",
+                "DirectUrl": "https://files.catbox.moe/4dratv.m4a",
+                "DurationSeconds": 181
+            },
+            {
+                "TrackId": "Gcxv7i02lXc",
+                "Title": "Por una Cabeza - Carlos Gardel",
+                "DirectUrl": "https://files.catbox.moe/xb5est.m4a",
+                "DurationSeconds": 146
+            },
+            {
+                "TrackId": "8OZCyp-LcGw",
+                "Title": "Mozart-The Marriage of Figaro",
+                "DirectUrl": "https://files.catbox.moe/qw39nn.m4a",
+                "DurationSeconds": 291
+            },
+            {
+                "TrackId": "u5yr-r3GkW4",
+                "Title": "Tritsch Tratsch Polka  ♪♫ ♫",
+                "DirectUrl": "https://files.catbox.moe/uwk6c5.m4a",
+                "DurationSeconds": 209
+            },
+            {
+                "TrackId": "w8LL3-knizk",
+                "Title": "Tchaikovsky - Waltz of the Flowers (from The Nutcracker)",
+                "DirectUrl": "https://files.catbox.moe/zu5x3k.m4a",
+                "DurationSeconds": 400
+            },
+            {
+                "TrackId": "XVkjzH7hBn8",
+                "Title": "Pizzicato - Léo Delibes (1836 - 1891)",
+                "DirectUrl": "https://files.catbox.moe/dgur3g.m4a",
+                "DurationSeconds": 112
+            },
+            {
+                "TrackId": "fS7yiD6cz8A",
+                "Title": "Mozart - 12 Variations in C Major 'Ah vous dirai-je, Maman' K.265 (Twinkle, Twinkle Little Star)",
+                "DirectUrl": "https://files.catbox.moe/b2zmbu.m4a",
+                "DurationSeconds": 468
+            },
+            {
+                "TrackId": "ZDFFHaz9GsY",
+                "Title": "Verdi: Requiem, Dies irae",
+                "DirectUrl": "https://files.catbox.moe/lvitdz.m4a",
+                "DurationSeconds": 135
+            },
+            {
+                "TrackId": "yTSAZAHiOa8",
+                "Title": "Luciano Pavarotti - Funiculì Funiculà",
+                "DirectUrl": "https://files.catbox.moe/tvkanw.m4a",
+                "DurationSeconds": 226
+            },
+            {
+                "TrackId": "5poSw7tFLB4",
+                "Title": "Tchaikovsky - Marche Slave",
+                "DirectUrl": "https://files.catbox.moe/8nn4uj.m4a",
+                "DurationSeconds": 566
+            },
+            {
+                "TrackId": "8Qx2lMaMsl8",
+                "Title": "The Flower Duet (Lakmé)",
+                "DirectUrl": "https://files.catbox.moe/iuvtax.m4a",
+                "DurationSeconds": "306"
+            }
+        ]
+    },
+    {
+        "Id": "p8",
+        "Name": "WWE Songs",
+        "Author": "Qhnk",
+        "Banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2BOMLA0Lb_1PDTyWAu_c7Nu3eDL7qONLeTw&s",
+        "YouTubeUrl": "https://www.youtube.com/playlist?list=PLEGP5LjXgLJ8swsKsk8xgZdCQjq5kKFNS",
+        "Tracks": [
+            {
+                "TrackId": "OjpRDmXoyMk",
+                "Title": "WWE: \"Sky's the Limit\" ► Sasha Banks 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/m80ptx.m4a",
+                "DurationSeconds": 164
+            },
+            {
+                "TrackId": "OsbIrtksDiE",
+                "Title": "WWE: \"Retaliation\" ► Dean Ambrose 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/8krg5y.m4a",
+                "DurationSeconds": 286
+            },
+            {
+                "TrackId": "1C-mdFXKyBU",
+                "Title": "WWE: \"Electrifying\" ► The Rock 24th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/m2d6rh.m4a",
+                "DurationSeconds": 149
+            },
+            {
+                "TrackId": "r16NjjDPLlc",
+                "Title": "WWE: \"The Truth Reigns\" ► Roman Reigns 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/a5g2ti.m4a",
+                "DurationSeconds": 172
+            },
+            {
+                "TrackId": "FYmm5YQSv2I",
+                "Title": "WWE: \"The Game\" ► Triple H 17th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/860l9m.m4a",
+                "DurationSeconds": 210
+            },
+            {
+                "TrackId": "nJ0dfAREvAc",
+                "Title": "WWE: \"Some Bodies Gonna Get It\" ► Mark Henry 17th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/4z0vbn.m4a",
+                "DurationSeconds": 170
+            },
+            {
+                "TrackId": "z6rhLTg6M7A",
+                "Title": "Edge 7th WWE Theme Song \"Metalingus\" (WWE Edit)",
+                "DirectUrl": "https://files.catbox.moe/uoxmn8.m4a",
+                "DurationSeconds": 296
+            },
+            {
+                "TrackId": "bzwADJqf_Ok",
+                "Title": "WWE: \"Rest In Peace\" ► The Undertaker 31st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/7zfn2m.m4a",
+                "DurationSeconds": 208
+            },
+            {
+                "TrackId": "l6SOYlunc88",
+                "Title": "WWE: \"I Walk Alone\" ► Batista 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/dbhsy0.m4a",
+                "DurationSeconds": 222
+            },
+            {
+                "TrackId": "wgSefgWp3Jg",
+                "Title": "WWE: \"Voices\" ► Randy Orton 13th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/158xqx.m4a",
+                "DurationSeconds": 202
+            },
+            {
+                "TrackId": "gQhJMvJDSZA",
+                "Title": "2014: John Cena 6th WWE Theme Song - The Time Is Now [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/ko416b.m4a",
+                "DurationSeconds": 178
+            },
+            {
+                "TrackId": "TklqbqnjDTU",
+                "Title": "Rey Mysterio Theme Song 2013",
+                "DirectUrl": "https://files.catbox.moe/re9eit.m4a",
+                "DurationSeconds": 194
+            },
+            {
+                "TrackId": "ZLazJKggCd0",
+                "Title": "WWE: \"Crank It Up\" ► Big Show 9th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/s8ucir.m4a",
+                "DurationSeconds": 269
+            },
+            {
+                "TrackId": "kJ1vSQRyIdA",
+                "Title": "WWE: \"Stars In the Night\" ► Paige 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/lf3xrv.m4a",
+                "DurationSeconds": 174
+            },
+            {
+                "TrackId": "0R2XZRrZDFo",
+                "Title": "WWE: \"The Second Coming\" ► Seth Rollins 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/o70zgb.m4a",
+                "DurationSeconds": 277
+            },
+            {
+                "TrackId": "9psDkhyh28A",
+                "Title": "WWE: \"Live In Fear\" ► Bray Wyatt 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/afgzh5.m4a",
+                "DurationSeconds": 217
+            },
+            {
+                "TrackId": "sig6ZL2EkUQ",
+                "Title": "WWE: \"This Fire Burns\" ► CM Punk 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/9zv31z.m4a",
+                "DurationSeconds": 189
+            },
+            {
+                "TrackId": "tw5nVVMeHIo",
+                "Title": "WWE: \"Fight\" ► Kevin Owens 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/lit3p7.m4a",
+                "DurationSeconds": 227
+            },
+            {
+                "TrackId": "O6wF999NaOg",
+                "Title": "WWE: \"We Are One (WWE MIX)\" ► The Nexus 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/x14mzm.m4a",
+                "DurationSeconds": 257
+            },
+            {
+                "TrackId": "dWpeOSlOTtc",
+                "Title": "2014: Hulk Hogan 3rd WWE Theme Song - Real American [Full] [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/1lkzxy.m4a",
+                "DurationSeconds": 200
+            },
+            {
+                "TrackId": "xGii4_WEJvE",
+                "Title": "2013: Brock Lesnar 6th and New WWE Theme Song \"Next Big Thing\" (Remix)",
+                "DirectUrl": "https://files.catbox.moe/lune96.m4a",
+                "DurationSeconds": 183
+            },
+            {
+                "TrackId": "PdnBh3mOl9U",
+                "Title": "2008-2014: Kofi Kingston 1st WWE Theme Song - S.O.S. (Intro Cut) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/swgyoq.m4a",
+                "DurationSeconds": 181
+            },
+            {
+                "TrackId": "U6rYDN0wEo4",
+                "Title": "WWE: \"Lucha Lucha\" ► The Lucha Dragons 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/qgmc8b.m4a",
+                "DurationSeconds": 254
+            },
+            {
+                "TrackId": "Ovi7YaAtIPA",
+                "Title": "WWE: \"The Time Is Now\" ► John Cena 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/149z4q.m4a",
+                "DurationSeconds": 178
+            },
+            {
+                "TrackId": "aCuPxGRwt24",
+                "Title": "WWE: \"Here to Show the World\" ► Dolph Ziggler 8th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/2pvsjv.m4a",
+                "DurationSeconds": 226
+            },
+            {
+                "TrackId": "fH2mf_DFxeM",
+                "Title": "WWE: \"King of Kings\" ► Triple H 13th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/9iaqoi.m4a",
+                "DurationSeconds": 238
+            },
+            {
+                "TrackId": "PABzfeRs5s0",
+                "Title": "WWE: \"No More Words\" ► Jeff Hardy 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/lxqpnu.m4a",
+                "DurationSeconds": 242
+            },
+            {
+                "TrackId": "2iqZK3KHpPI",
+                "Title": "WWE: \"Meat On the Table\" ► Ryback 8th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/m3fjfe.m4a",
+                "DurationSeconds": 170
+            },
+            {
+                "TrackId": "jHtEfvg2zd0",
+                "Title": "WWE: \"Break the Walls Down\" ► Chris Jericho 12th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/5sdkv4.m4a",
+                "DurationSeconds": 201
+            },
+            {
+                "TrackId": "PLFyZOn2t3A",
+                "Title": "2014: The Miz 8th WWE Theme Song - I Came to Play (V2; Quote; Hollywood Intro V2) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/l5kw7y.m4a",
+                "DurationSeconds": 306
+            },
+            {
+                "TrackId": "uYJDjsZH-ic",
+                "Title": "WWE: \"SAWFT Is a Sin\" ► Enzo Amore 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/187g5b.m4a",
+                "DurationSeconds": 256
+            },
+            {
+                "TrackId": "JPkANjVUQhw",
+                "Title": "WWE: \"Beautiful Life\" ► Brie Bella 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/svddt7.m4a",
+                "DurationSeconds": 253
+            },
+            {
+                "TrackId": "u6_FTekkYUk",
+                "Title": "WWE: \"Worlds Apart\" ► Sami Zayn 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/027z2t.m4a",
+                "DurationSeconds": 262
+            },
+            {
+                "TrackId": "WHU5D2O31vs",
+                "Title": "WWE: \"Flight of the Valkyries\" ► Daniel Bryan 9th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/8rya3u.m4a",
+                "DurationSeconds": 113
+            },
+            {
+                "TrackId": "VBWrwW2-m1o",
+                "Title": "WWE: \"Written In My Face\" ► Sheamus 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/v3pfbd.m4a",
+                "DurationSeconds": 207
+            },
+            {
+                "TrackId": "hd_D7sa8pYQ",
+                "Title": "Zack Ryder 5th WWE Theme Song \"Radio\" (V2) (With Quote) [High Quality+Download Link]",
+                "DirectUrl": "https://files.catbox.moe/4j0q0s.m4a",
+                "DurationSeconds": 248
+            },
+            {
+                "TrackId": "Ks3st1dG4UY",
+                "Title": "WWE: \"Cult of Personality\" ► CM Punk 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/3bss6s.m4a",
+                "DurationSeconds": 274
+            },
+            {
+                "TrackId": "_KpMXRv4iUo",
+                "Title": "WWE: \"Written in the Stars\" ► Stardust 12th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/1hptny.m4a",
+                "DurationSeconds": 216
+            },
+            {
+                "TrackId": "iE-at65LjDA",
+                "Title": "WWE: \"Рев на лъвът (Roar of the Lion)\" ► Rusev 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/31i42i.m4a",
+                "DurationSeconds": 138
+            },
+            {
+                "TrackId": "P-qbxtkcGYc",
+                "Title": "WWE: \"Line In the Sand\" ► Evolution 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/nkalrs.m4a",
+                "DurationSeconds": 216
+            },
+            {
+                "TrackId": "rl4KJa5BmME",
+                "Title": "WWE: \"Catch Your Breath\" ► Finn Bálor 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/zs2ejw.m4a",
+                "DurationSeconds": 294
+            },
+            {
+                "TrackId": "Z5ycXfMF318",
+                "Title": "WWE: \"Gold-Lust\" ► Goldust 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/f4s229.m4a",
+                "DurationSeconds": 156
+            },
+            {
+                "TrackId": "WxSwtDgaQDk",
+                "Title": "WWE: \"Sheepherder\" ► Erick Rowan 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/qd8bg2.m4a",
+                "DurationSeconds": 214
+            },
+            {
+                "TrackId": "CbfEXSFLO9g",
+                "Title": "1996-1998: Stone Cold Steve Austin 3rd WWE Theme Song - Hell Frozen Over [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/vhczil.m4a",
+                "DurationSeconds": 185
+            },
+            {
+                "TrackId": "iUg92Fnt--k",
+                "Title": "WWE: \"So Close Now\" ► The Usos 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/6y8pq1.m4a",
+                "DurationSeconds": 204
+            },
+            {
+                "TrackId": "kKNiPFNIpK8",
+                "Title": "WWE: \"Cult of Personality\" ► CM Punk 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/tki8es.m4a",
+                "DurationSeconds": 274
+            },
+            {
+                "TrackId": "-_LXLJGQUyw",
+                "Title": "WWE Sheamus 5th & NEW Theme Song ''Hellfire''",
+                "DirectUrl": "https://files.catbox.moe/vl599r.m4a",
+                "DurationSeconds": 267
+            },
+            {
+                "TrackId": "AA__1iizDfs",
+                "Title": "WWE: \"One of a Kind\" ► Rob Van Dam 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/s1amqk.m4a",
+                "DurationSeconds": 134
+            },
+            {
+                "TrackId": "mx60996AUOk",
+                "Title": "WWE: \"Patriot\" ► Jack Swagger 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/gl0ngb.m4a",
+                "DurationSeconds": 236
+            },
+            {
+                "TrackId": "8P9qaqgxReE",
+                "Title": "WWE: \"I Need Five\" ► Big E Langston 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/3v7jza.m4a",
+                "DurationSeconds": 204
+            },
+            {
+                "TrackId": "v6F9xEbXF1s",
+                "Title": "WWE: \"Next Big Thing\" ► Brock Lesnar 6th Theme",
+                "DirectUrl": "https://files.catbox.moe/0cc8bw.m4a",
+                "DurationSeconds": 184
+            },
+            {
+                "TrackId": "V_eCdrk6QFk",
+                "Title": "WWE: \"Metalingus\" ► Edge 7th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/rxorrk.m4a",
+                "DurationSeconds": 259
+            },
+            {
+                "TrackId": "X-phPaAF5h4",
+                "Title": "2006: Kurt Angle 5th WWE Theme Song - Medal (V2; Extended Intro) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/gw3f73.m4a",
+                "DurationSeconds": 177
+            },
+            {
+                "TrackId": "4YNauvdrN7k",
+                "Title": "2011-2014: Sin Cara 1st WWE Theme Song - Ancient Spirit [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/w0uzmp.m4a",
+                "DurationSeconds": 267
+            },
+            {
+                "TrackId": "TRWr_-Vv0x4",
+                "Title": "WWE: \"Swamp Gas\" ► Luke Harper 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/40n3y1.m4a",
+                "DurationSeconds": 180
+            },
+            {
+                "TrackId": "vuO1rpuIWOI",
+                "Title": "WWE: \"Swiss Made\" ► Cesaro 9th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/li1003.m4a",
+                "DurationSeconds": 255
+            },
+            {
+                "TrackId": "IZofEGaju5k",
+                "Title": "WWE: Out From the Shadows (V1) ► Sting 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/lhch17.m4a",
+                "DurationSeconds": 213
+            },
+            {
+                "TrackId": "8KaMVtLGva8",
+                "Title": "WWE: \"Recognition\" ► Charlotte 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/x44oul.m4a",
+                "DurationSeconds": 258
+            },
+            {
+                "TrackId": "_XxbkUhvXGs",
+                "Title": "WWE: \"Right Here, Right Now\" ► Tyson Kidd 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/zdjd96.m4a",
+                "DurationSeconds": 198
+            },
+            {
+                "TrackId": "HtTtwDILt0Q",
+                "Title": "WWE: \"Break Orbit\" ► Neville 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/4r5uns.m4a",
+                "DurationSeconds": 255
+            },
+            {
+                "TrackId": "Dvc4EOjRweU",
+                "Title": "WWE: \"#MMMGORGEOUS\" ► Tyler Breeze 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/pu6kh1.m4a",
+                "DurationSeconds": 285
+            },
+            {
+                "TrackId": "vhgr8pW8Wtc",
+                "Title": "WWE: \"Rush of Power\" ► Summer Rae 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/u80736.m4a",
+                "DurationSeconds": 244
+            },
+            {
+                "TrackId": "b4zOOADtLK8",
+                "Title": "WWE: \"Break Away\" ► Adam Rose 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/znjvqn.m4a",
+                "DurationSeconds": 216
+            },
+            {
+                "TrackId": "r7sjweuM2nY",
+                "Title": "2015: The New Day 2nd WWE Theme Song \"New Day, New Way\" (With Big E Quote)",
+                "DirectUrl": "https://files.catbox.moe/uejy3m.m4a",
+                "DurationSeconds": 187
+            },
+            {
+                "TrackId": "BRATbL8eI18",
+                "Title": "2014: Dusty Rhodes 1st WWE Theme Song - Common Man Boogie [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/ozydim.m4a",
+                "DurationSeconds": 142
+            },
+            {
+                "TrackId": "-6VQ_AUH5Rc",
+                "Title": "WWE: \"#Emmalution\" ► Emma 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/10xvyc.m4a",
+                "DurationSeconds": 230
+            },
+            {
+                "TrackId": "M9FSKgPDGSE",
+                "Title": "Mick Foley Theme Song ● ''Wreck'' ● 2007-2012 ● HD",
+                "DirectUrl": "https://files.catbox.moe/n7h4bp.m4a",
+                "DurationSeconds": 187
+            },
+            {
+                "TrackId": "uEtZQMgUjp0",
+                "Title": "2014: Dean Ambrose 3rd WWE Theme Song - Lunatic Rage [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/29uw9y.m4a",
+                "DurationSeconds": 162
+            },
+            {
+                "TrackId": "43KyLIa-Hr0",
+                "Title": "WWE: \"Внимание! (Attention!)\" ► Lana 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/k6kvvv.m4a",
+                "DurationSeconds": 199
+            },
+            {
+                "TrackId": "1jyM3quZ0h0",
+                "Title": "WWE: \"You Can Look (But You Can't Touch)\" ► The Bella Twins 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/bw6jj3.m4a",
+                "DurationSeconds": 234
+            },
+            {
+                "TrackId": "LQcxKSI6YSs",
+                "Title": "WWE: \"Superhuman\" ► Baron Corbin 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/r968s5.m4a",
+                "DurationSeconds": 211
+            },
+            {
+                "TrackId": "IjBvKlH90eE",
+                "Title": "2011-2014: R-Truth 14th WWE Theme Song - Little Jimmy (No Quotes) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/3z8op3.m4a",
+                "DurationSeconds": 215
+            },
+            {
+                "TrackId": "1_EQ08d2n5o",
+                "Title": "WWE: \"Rebel Son\" ► Bad News Barrett Theme Song",
+                "DirectUrl": "https://files.catbox.moe/yf9fv5.m4a",
+                "DurationSeconds": 223
+            },
+            {
+                "TrackId": "4b4jEbz2tWg",
+                "Title": "WWE: \"Veil of Fire\" ► Kane 15th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/8ghpep.m4a",
+                "DurationSeconds": 231
+            },
+            {
+                "TrackId": "UUTEaJVWf0E",
+                "Title": "WWE: \"Veil of Fire\" ► Team Hell No 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/it24ah.m4a",
+                "DurationSeconds": 234
+            },
+            {
+                "TrackId": "hMMVGbbBTDo",
+                "Title": "WWE: \"Here to Show the World\" ► Dolph Ziggler 8th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/sbskio.m4a",
+                "DurationSeconds": 225
+            },
+            {
+                "TrackId": "1SYheK-f0wA",
+                "Title": "2009-2014: Zack Ryder 5th WWE Theme Song - Radio (V2; With Quote) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/otcxxp.m4a",
+                "DurationSeconds": 248
+            },
+            {
+                "TrackId": "M3M7QtzvZiA",
+                "Title": "►WWE: I Come From Money - (Ted DiBiase Jr.) 7th Theme Song (HD) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/k9samg.m4a",
+                "DurationSeconds": 172
+            },
+            {
+                "TrackId": "6U65ggjxUv4",
+                "Title": "2011-2014: Alex Riley 3rd WWE Theme Song - Say It To My Face [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/ezknvn.m4a",
+                "DurationSeconds": 274
+            },
+            {
+                "TrackId": "uSe48QDXry8",
+                "Title": "1998-2002 : Edge 1st Theme \"You Think You Know Me\"",
+                "DirectUrl": "https://files.catbox.moe/5fdouf.m4a",
+                "DurationSeconds": 219
+            },
+            {
+                "TrackId": "kbOQdWpfACQ",
+                "Title": "WWE: \"Rebel Son\" ► Wade Barrett 16th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/vej7r8.m4a",
+                "DurationSeconds": 230
+            },
+            {
+                "TrackId": "tl01KY8i2UA",
+                "Title": "WWE: \"Rebellion\" ► The Ascension 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/9dtmgm.m4a",
+                "DurationSeconds": 169
+            },
+            {
+                "TrackId": "IUWrHt-Rj-E",
+                "Title": "WWE Sheamus NEW Theme Song \"Hellfire\" (Not Full)",
+                "DirectUrl": "https://files.catbox.moe/7ukd80.m4a",
+                "DurationSeconds": 146
+            },
+            {
+                "TrackId": "1hpYYeJzqYc",
+                "Title": "WWE: \"Realeza 2013\" ► Alberto Del Rio 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/q0fxsx.m4a",
+                "DurationSeconds": 155
+            },
+            {
+                "TrackId": "UNp4-9eLleE",
+                "Title": "WWE: Jack Swagger Theme \" Get On Your Knees\" [CD Quality + Download Link]",
+                "DirectUrl": "https://files.catbox.moe/nughd1.m4a",
+                "DurationSeconds": 192
+            },
+            {
+                "TrackId": "yh0S2O3gNJA",
+                "Title": "WWE: \"Peña Flamenca\" ► Fandango 7th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/w81vtz.m4a",
+                "DurationSeconds": 145
+            },
+            {
+                "TrackId": "NKPa3Kf441Y",
+                "Title": "Triple H 13th WWE Theme Song \"King Of Kings\"",
+                "DirectUrl": "https://files.catbox.moe/ylldq5.m4a",
+                "DurationSeconds": 230
+            },
+            {
+                "TrackId": "nv86El--KhY",
+                "Title": "WWE: \"Smoke and Mirrors\" ► Cody Rhodes 10th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/idrxpj.m4a",
+                "DurationSeconds": 173
+            },
+            {
+                "TrackId": "0REbZvbVaVU",
+                "Title": "WWE: \"I Am Perfection\" ► Dolph Ziggler 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/1o1vs4.m4a",
+                "DurationSeconds": 220
+            },
+            {
+                "TrackId": "JDBuelN37kU",
+                "Title": "WWE: \"Smashed In the Face\" ► Paige 1st Theme Song",
+                "DirectUrl": "https://files.catbox.moe/ygz24u.m4a",
+                "DurationSeconds": 67
+            },
+            {
+                "TrackId": "tMegGxkgBE0",
+                "Title": "WWE: \"Booyaka 619\" ► Rey Mysterio 5th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/h7vzej.m4a",
+                "DurationSeconds": 182
+            },
+            {
+                "TrackId": "-e-v6R_GBq4",
+                "Title": "WWE: \"Shoot For the Stars\" ► Bo Dallas 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/3c8xi0.m4a",
+                "DurationSeconds": 265
+            },
+            {
+                "TrackId": "hIc0txXCKls",
+                "Title": "WWE Brock Lesnar Theme Remix [The Dance Floor Massacre Remix]",
+                "DirectUrl": "https://files.catbox.moe/pyhai0.m4a",
+                "DurationSeconds": 184
+            },
+            {
+                "TrackId": "-9dGbbd8igY",
+                "Title": "2015: John Cena 6th WWE Theme Song - \"The Time Is Now\"",
+                "DirectUrl": "https://files.catbox.moe/ceqqpt.m4a",
+                "DurationSeconds": 178
+            },
+            {
+                "TrackId": "mGJPT8ZeC0Y",
+                "Title": "WWE: \"Meat On the Table\" ► Ryback 10th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/er4xer.m4a",
+                "DurationSeconds": 143
+            },
+            {
+                "TrackId": "ucm4BInhBcc",
+                "Title": "Curtis Axel Theme Song",
+                "DirectUrl": "https://files.catbox.moe/s8z8v1.m4a",
+                "DurationSeconds": 221
+            },
+            {
+                "TrackId": "eSk_sv2JiIA",
+                "Title": "WWE: \"Anything\" ► Bo Dallas 2nd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/aht0g0.m4a",
+                "DurationSeconds": 218
+            },
+            {
+                "TrackId": "TFMf_Ychgjw",
+                "Title": "Stephanie McMahon - Official Theme Song 2024",
+                "DirectUrl": "https://files.catbox.moe/neknsq.m4a",
+                "DurationSeconds": 222
+            },
+            {
+                "TrackId": "i8_Jz2hnk1c",
+                "Title": "WWE: Brock Lesnar Theme Song \"Next Big Thing ~ Jim Johnston\" [HD + Download Link]",
+                "DirectUrl": "https://files.catbox.moe/mxtafa.m4a",
+                "DurationSeconds": 183
+            },
+            {
+                "TrackId": "u4Ck3TQeG1I",
+                "Title": "2014: Seth Rollins 4th and New WWE Theme Song \"The Second Coming\" (V2)",
+                "DirectUrl": "https://files.catbox.moe/3arfcp.m4a",
+                "DurationSeconds": 277
+            },
+            {
+                "TrackId": "yKuyV1Za0VQ",
+                "Title": "WWE: \"Fear Nothing\" ► Justin Gabriel 14th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/8ka30t.m4a",
+                "DurationSeconds": 124
+            },
+            {
+                "TrackId": "nvjn-guy6is",
+                "Title": "Big Show Theme Song 2013-2014",
+                "DirectUrl": "https://files.catbox.moe/ycl1br.m4a",
+                "DurationSeconds": 268
+            },
+            {
+                "TrackId": "Xeksgavwgrk",
+                "Title": "Randy Orton Unused WWE Theme Song \"Burn In My Light\" (Full Version)",
+                "DirectUrl": "https://files.catbox.moe/sa5h34.m4a",
+                "DurationSeconds": 237
+            },
+            {
+                "TrackId": "EKs0aDNDWY4",
+                "Title": "WWE: Shawn Michaels Theme Song \"Sexy Boy - Jim Johnston\" [HD + Download Link]",
+                "DirectUrl": "https://files.catbox.moe/yy0vol.m4a",
+                "DurationSeconds": 210
+            },
+            {
+                "TrackId": "udBHtTfpmK0",
+                "Title": "2008-2014: Randy Orton 11th WWE Theme Song - Voices [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/zpmywg.m4a",
+                "DurationSeconds": 202
+            },
+            {
+                "TrackId": "xXnXDiVpY10",
+                "Title": "WWE: \"Miracle\" ► Antonio Cesaro 3rd Theme Song",
+                "DirectUrl": "https://files.catbox.moe/3rbcon.m4a",
+                "DurationSeconds": 200
+            },
+            {
+                "TrackId": "jHte5TFSsAk",
+                "Title": "WWE Sheamus 5th & NEW Theme Song ''Hellfire'' 2015",
+                "DirectUrl": "https://files.catbox.moe/fza3uw.m4a",
+                "DurationSeconds": 270
+            },
+            {
+                "TrackId": "QIL3E1G5Bjg",
+                "Title": "2009-2014: Sheamus 1st WWE Theme Song - Written In My Face (Slowed Down) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/27bgdn.m4a",
+                "DurationSeconds": 216
+            },
+            {
+                "TrackId": "gvPISzfDHEw",
+                "Title": "WWE: \"Making Moves\" ► The Prime Time Players 6th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/0633bj.m4a",
+                "DurationSeconds": 187
+            },
+            {
+                "TrackId": "y4lUoI00QpI",
+                "Title": "WWE: \"ChaChaLaLa\" (#Fandangoing Remix) ► Fandango Unused Theme Song",
+                "DirectUrl": "https://files.catbox.moe/m27bfi.m4a",
+                "DurationSeconds": 183
+            },
+            {
+                "TrackId": "Tyf6Z53vnrE",
+                "Title": "WWE Triple H 2013 Theme Song - The Game",
+                "DirectUrl": "https://files.catbox.moe/gckm7c.m4a",
+                "DurationSeconds": 205
+            },
+            {
+                "TrackId": "Q2kMseHWYk0",
+                "Title": "Cody Rhodes 9th WWE Theme Song \"Only One Can Judge\"",
+                "DirectUrl": "https://files.catbox.moe/gl6myu.m4a",
+                "DurationSeconds": 201
+            },
+            {
+                "TrackId": "sBXAkTMz9O8",
+                "Title": "Sin Cara '' Ancient Spirit '' WWE Theme Song 2013/14",
+                "DirectUrl": "https://files.catbox.moe/e92kcm.m4a",
+                "DurationSeconds": 241
+            },
+            {
+                "TrackId": "wCkz9Div8ow",
+                "Title": "2014: Titus O' Neil 8th WWE Theme Song - Let Me Show You How [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/ofn3og.m4a",
+                "DurationSeconds": 233
+            },
+            {
+                "TrackId": "3GjCqErclH4",
+                "Title": "2015: Roman Reigns 3rd and New WWE Theme Song \"The Truth Reigns\"",
+                "DirectUrl": "https://files.catbox.moe/ra1mlg.m4a",
+                "DurationSeconds": 173
+            },
+            {
+                "TrackId": "Q6cKsCqoIRU",
+                "Title": "S.A.W.F.T. Enzo and Cass Theme",
+                "DirectUrl": "https://files.catbox.moe/1bn8rp.m4a",
+                "DurationSeconds": 256
+            },
+            {
+                "TrackId": "LiDP2mbxBBg",
+                "Title": "2013-2014 : Justin Gabriel 14th & New WWE Theme Song - \"Fear Nothing\" [Download Link & High Quality]",
+                "DirectUrl": "https://files.catbox.moe/9w0bmo.m4a",
+                "DurationSeconds": 124
+            },
+            {
+                "TrackId": "gUqIhiEoBtE",
+                "Title": "►WWE: One Two Three (WWE-Edit) - (Darren Young) 3rd Theme Song (HD) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/4ykjhy.m4a",
+                "DurationSeconds": 143
+            },
+            {
+                "TrackId": "FbeKbPdGgUk",
+                "Title": "2014: Roman Reigns 3rd WWE Theme Song - The Truth Reigns [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/p9w3wk.m4a",
+                "DurationSeconds": 173
+            },
+            {
+                "TrackId": "-KcnPnWL5Z4",
+                "Title": "2011-2014: CM Punk 2nd WWE Theme Song - Cult Of Personality [ᵀᴱ¹ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/dvf0ld.m4a",
+                "DurationSeconds": 276
+            },
+            {
+                "TrackId": "lOZ6f9i6AX4",
+                "Title": "Rey Mysterio '' Booyaka 619 '' WWE Theme Song 2014",
+                "DirectUrl": "https://files.catbox.moe/8khzr0.m4a",
+                "DurationSeconds": 182
+            },
+            {
+                "TrackId": "o8f5Jmcy34A",
+                "Title": "2005-2014: John Cena 6th WWE Theme Song - The Time Is Now [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/jjzzd9.m4a",
+                "DurationSeconds": 178
+            },
+            {
+                "TrackId": "muI67xKHvAg",
+                "Title": "2014: The Miz 7th WWE Theme Song - I Came to Play (V2; Quote; Hollywood Intro) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/hwt1lf.m4a",
+                "DurationSeconds": 306
+            },
+            {
+                "TrackId": "d4BgUR-oSAs",
+                "Title": "2013-2014: Alberto Del Rio 3rd WWE Theme Song - Realeza 2013 (Intro Cut) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/z50z43.m4a",
+                "DurationSeconds": 158
+            },
+            {
+                "TrackId": "6cyluSrgUtM",
+                "Title": "WWE: \"Lucha Lucha\" By CFO$ The Lucha Dragons Theme Song",
+                "DirectUrl": "https://files.catbox.moe/3f1rob.m4a",
+                "DurationSeconds": 256
+            },
+            {
+                "TrackId": "dC8FCaQGFnk",
+                "Title": "2014: Cesaro 8th WWE Theme Song - Swiss Made (V3 w/ Ambulance Sirens) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/bl8hy6.m4a",
+                "DurationSeconds": 257
+            },
+            {
+                "TrackId": "vMPN2_D5cFs",
+                "Title": "2014: The Miz 7th WWE Theme Song - I Came to Play (V2; Quote; Hollywood Intro) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/7xdo6t.m4a",
+                "DurationSeconds": 302
+            },
+            {
+                "TrackId": "aSg8MCr2Mwg",
+                "Title": "2014: Goldust 7th WWE Theme Song - Gold-Lust [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/z7khzy.m4a",
+                "DurationSeconds": 155
+            },
+            {
+                "TrackId": "RdYWKJaXe4E",
+                "Title": "2011-2013 : Daniel Bryan 9th WWE Theme Song - Flight Of The Valkyries [Download Link & High Quality]",
+                "DirectUrl": "https://files.catbox.moe/rnr8kb.m4a",
+                "DurationSeconds": 114
+            },
+            {
+                "TrackId": "v6auV2DRkAc",
+                "Title": "WWE_Vox #2 - Worlds Apart (Sami Zayn WWE/NXT Theme) [Original Lyrics+Vocals] [Re-Upload]",
+                "DirectUrl": "https://files.catbox.moe/5pr00u.m4a",
+                "DurationSeconds": 190
+            },
+            {
+                "TrackId": "MOF6OnuxhW4",
+                "Title": "►WWE: Rap Sheet - (Booker T) 2nd Theme Song (HD) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/9dbk7q.m4a",
+                "DurationSeconds": 165
+            },
+            {
+                "TrackId": "FK0_PTKQHEU",
+                "Title": "2015: King Barrett 17th WWE Theme Song \"Rebel Son\" (V2) (WWE Edit)",
+                "DirectUrl": "https://files.catbox.moe/xl3rtj.m4a",
+                "DurationSeconds": 220
+            },
+            {
+                "TrackId": "YcN901CTf-w",
+                "Title": "2011-2014 : CM Punk 2nd WWE Theme Song - Cult of Personality [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/aac9is.m4a",
+                "DurationSeconds": 276
+            },
+            {
+                "TrackId": "fxE-cz2QkCA",
+                "Title": "John Cena 5th WWE Theme Song \"Basic Thuganomics\"",
+                "DirectUrl": "https://files.catbox.moe/5lacdm.m4a",
+                "DurationSeconds": 195
+            },
+            {
+                "TrackId": "sLmKLLT1d_Y",
+                "Title": "Randy Orton WWE Theme Song 2014 '' Voices ''",
+                "DirectUrl": "https://files.catbox.moe/crp7pz.m4a",
+                "DurationSeconds": 200
+            },
+            {
+                "TrackId": "xRM0-oO1Xk8",
+                "Title": "WWE Kalisto 2nd Theme Song \"Lucha Lucha\" ᴴᴰ",
+                "DirectUrl": "https://files.catbox.moe/pe5z8z.m4a",
+                "DurationSeconds": 255
+            },
+            {
+                "TrackId": "cO6WzVZsEFs",
+                "Title": "WWE One of a Kind ► Rob Van Dam 4th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/scmoop.m4a",
+                "DurationSeconds": 134
+            },
+            {
+                "TrackId": "vwwj-1On-sg",
+                "Title": "2009-2014: Sheamus 3rd WWE Theme Song - \"Written In My Face\" (Intro Cut) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/5g8p6l.m4a",
+                "DurationSeconds": 205
+            },
+            {
+                "TrackId": "f5OuNOgICSU",
+                "Title": "2011-2015: The Rock 24th WWE Theme Song - \"Electrifying\" + Download Link",
+                "DirectUrl": "https://files.catbox.moe/utcojo.m4a",
+                "DurationSeconds": 149
+            },
+            {
+                "TrackId": "YJxzCnlGx2I",
+                "Title": "WWE Teddy Long 1st Theme Song \"MacMilltant\" ᴴᴰ",
+                "DirectUrl": "https://files.catbox.moe/1fv6km.m4a",
+                "DurationSeconds": 190
+            },
+            {
+                "TrackId": "3nC0Sb1UrWo",
+                "Title": "2004-2013: Edge 7th & Last WWE Theme Song - \"Metalingus\" (WWE Edit) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/pnwgao.m4a",
+                "DurationSeconds": 203
+            },
+            {
+                "TrackId": "Mr6LnzBHjz0",
+                "Title": "wwe mark henry theme song",
+                "DirectUrl": "https://files.catbox.moe/hq26nj.m4a",
+                "DurationSeconds": 126
+            },
+            {
+                "TrackId": "lnWXYu6Ou8g",
+                "Title": "The Rock 24th WWE Theme Song - \"Electrifying\" HD",
+                "DirectUrl": "https://files.catbox.moe/4cc4ub.m4a",
+                "DurationSeconds": 150
+            },
+            {
+                "TrackId": "JCkVCn8CURE",
+                "Title": "►WWE: Realeza - (Alberto Del Rio) 1st Theme Song (HD) + Download Link",
+                "DirectUrl": "https://files.catbox.moe/30yumu.m4a",
+                "DurationSeconds": 205
+            },
+            {
+                "TrackId": "k9Hf7P4xAZw",
+                "Title": "2013-2014: Jack Swagger 6th WWE Theme Song - Patriot (WWE Edit) [ᵀᴱᴼ + ᴴᴰ]",
+                "DirectUrl": "https://files.catbox.moe/x3370x.m4a",
+                "DurationSeconds": 93
+            },
+            {
+                "TrackId": "slJHx0TSK1E",
+                "Title": "Jack swagger theme 2008 : 2'z top",
+                "DirectUrl": "https://files.catbox.moe/xgw3p6.m4a",
+                "DurationSeconds": 125
+            },
+            {
+                "TrackId": "6d09Hj3XCjM",
+                "Title": "WWE♕\"Downstait-Radio\"♕ Zack Ryder NEW Theme Song",
+                "DirectUrl": "https://files.catbox.moe/tav71t.m4a",
+                "DurationSeconds": 210
+            },
+            {
+                "TrackId": "9SH8jaAlOA0",
+                "Title": "2014 : Brodus Clay 8th & New WWE Theme Song - \"Ain't No Party\" [Download Link & High Quality]",
+                "DirectUrl": "https://files.catbox.moe/qh2pmv.m4a",
+                "DurationSeconds": 183
+            },
+            {
+                "TrackId": "FHLSAzsL_50",
+                "Title": "WWE The New Day Debut Theme April 2014",
+                "DirectUrl": "https://files.catbox.moe/k6cb4o.m4a",
+                "DurationSeconds": 156
+            },
+            {
+                "TrackId": "nvRWo8SxvBY",
+                "Title": "WWE: \"Swiss Made\" ► Cesaro 8th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/ys8muw.m4a",
+                "DurationSeconds": "253"
+            },
+            {
+                "TrackId": "oZ6VlUpGedU",
+                "Title": "WWE: \"Just Close Your Eyes\" ► Christian 14th Theme Song",
+                "DirectUrl": "https://files.catbox.moe/m3eqlg.m4a",
+                "DurationSeconds": "269"
+            },
+            {
+                "TrackId": "FUhupBm-C3Y",
+                "Title": "WWE   Shane McMahon Theme Song '' Here Comes The Money ''",
+                "DirectUrl": "https://files.catbox.moe/p9ryqp.m4a",
+                "DurationSeconds": "191"
+            }
+        ]
     }
 ]
