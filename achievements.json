@@ -20,8 +20,32 @@
     "DescEN": "Kept QstandX open for more than 5 minutes.",
     "DescES": "Mantuvo QstandX abierto por más de 5 minutos.",
     "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVUc9HPU4hMaN-5PjNxWJpxYDotdL6BCljpA&s",
-    "TipoReq": "evento",
-    "ValorReq": 0
+    "TipoReq": "tempo_launcher",
+    "ValorReq": 300
+  },
+  {
+    "Id": "stay_1h",
+    "NomePT": "Morador Antigo",
+    "NomeEN": "Old Dweller",
+    "NomeES": "Antiguo Residente",
+    "DescPT": "Launcher aberto por mais de 1 hora!",
+    "DescEN": "Launcher open for more than 1 hour!",
+    "DescES": "¡Launcher abierto por mais de 1 hora!",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/3135/3135783.png",
+    "TipoReq": "tempo_launcher",
+    "ValorReq": 3600
+  },
+  {
+    "Id": "stay_10h",
+    "NomePT": "Parte da Mobília",
+    "NomeEN": "Part of the Furniture",
+    "NomeES": "Parte del Mobiliario",
+    "DescPT": "Você completou 10 horas com o launcher aberto!",
+    "DescEN": "You completed 10 hours with the launcher open!",
+    "DescES": "¡Has completado 10 horas con el launcher abierto!",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/10633/10633714.png",
+    "TipoReq": "tempo_launcher",
+    "ValorReq": 36000
   },
   {
     "Id": "linked_nick",
@@ -68,7 +92,31 @@
     "DescEN": "Listened to your first song on QstandX radio.",
     "DescES": "Escuchó su primera música en la radio de QstandX.",
     "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfaknjuCefbtMdEk7GnLwVrn0aRpfBH2JXw&s",
-    "TipoReq": "evento",
-    "ValorReq": 0
+    "TipoReq": "musicas_ouvidas",
+    "ValorReq": 1
+  },
+  {
+    "Id": "radio_fan",
+    "NomePT": "Ouvinte Fiel",
+    "NomeEN": "Faithful Listener",
+    "NomeES": "Oyente Fiel",
+    "DescPT": "Você ouviu mais de 50 músicas na rádio!",
+    "DescEN": "You listened to more than 50 songs on the radio!",
+    "DescES": "¡Has escuchado más de 50 canciones en la radio!",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/3659/3659898.png",
+    "TipoReq": "musicas_ouvidas",
+    "ValorReq": 50
+  },
+  {
+    "Id": "vip_silver",
+    "NomePT": "Apoiador",
+    "NomeEN": "Supporter",
+    "NomeES": "Seguidor VIP",
+    "DescPT": "Conquista exclusiva para membros VIP do QstandX.",
+    "DescEN": "Exclusive achievement for QstandX VIP members.",
+    "DescES": "Logro exclusivo para miembros VIP de QstandX.",
+    "Insignia": "https://static.vecteezy.com/ti/vetor-gratis/p1/10286881-vip-award-badge-with-gem-um-prize-with-a-diamond-crown-for-ui-games-vector-illustration-luxury-icon-reward-winner-for-graphic-design-vetor.jpg",
+    "TipoReq": "vip",
+    "ValorReq": 1
   }
 ]
