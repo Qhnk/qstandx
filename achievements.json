@@ -23,6 +23,19 @@
     "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVUc9HPU4hMaN-5PjNxWJpxYDotdL6BCljpA&s",
     "TipoReq": "tempo_launcher",
     "ValorReq": 300,
+    "RecompensaTitulo": "Morador"
+  },
+  {
+    "Id": "stay_20min",
+    "NomePT": "Visitante Frequente",
+    "NomeEN": "Frequent Visitor",
+    "NomeES": "Visitante Frecuente",
+    "DescPT": "Manteve o QstandX aberto por 20 minutos.",
+    "DescEN": "Kept QstandX open for 20 minutes.",
+    "DescES": "Mantuvo QstandX abierto por 20 minutos.",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/3563/3563417.png",
+    "TipoReq": "tempo_launcher",
+    "ValorReq": 1200,
     "RecompensaTitulo": "Explorador"
   },
   {
@@ -32,7 +45,7 @@
     "NomeES": "Antiguo Residente",
     "DescPT": "Launcher aberto por mais de 1 hora!",
     "DescEN": "Launcher open for more than 1 hour!",
-    "DescES": "¡Launcher abierto por mais de 1 hora!",
+    "DescES": "¡Launcher aberto por mais de 1 hora!",
     "Insignia": "https://cdn-icons-png.flaticon.com/512/3135/3135783.png",
     "TipoReq": "tempo_launcher",
     "ValorReq": 3600,
@@ -45,11 +58,76 @@
     "NomeES": "Parte del Mobiliario",
     "DescPT": "Você completou 10 horas com o launcher aberto!",
     "DescEN": "You completed 10 hours with the launcher open!",
-    "DescES": "¡Has completado 10 horas con el launcher abierto!",
+    "DescES": "¡Has completado 10 horas con el launcher aberto!",
     "Insignia": "https://cdn-icons-png.flaticon.com/512/10633/10633714.png",
     "TipoReq": "tempo_launcher",
     "ValorReq": 36000,
     "RecompensaTitulo": "Lenda Urbana"
+  },
+  {
+    "Id": "linked_nick",
+    "NomePT": "Identidade Revelada",
+    "NomeEN": "Identity Revealed",
+    "NomeES": "Identidad Revelada",
+    "DescPT": "Você vinculou um Nickname ao seu ID pela primeira vez.",
+    "DescEN": "You linked a Nickname to your ID for the first time.",
+    "DescES": "¡Has vinculado un apodo a su ID por primera vez!",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdwVRbBdbV8prg18ao7o_zzzDwOFodVrPRA&s",
+    "TipoReq": "evento",
+    "ValorReq": 0,
+    "RecompensaTitulo": "Cidadão"
+  },
+  {
+    "Id": "profile_pic",
+    "NomePT": "Estiloso",
+    "NomeEN": "Stylish",
+    "NomeES": "Elegante",
+    "DescPT": "Adicionou uma foto personalizada ao seu perfil.",
+    "DescEN": "Added a custom photo to your profile.",
+    "DescES": "Añadió uma foto personalizada a su perfil.",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWC_ePsWFETslNjKtXVysDTItR-uxpaaaP7w&s",
+    "TipoReq": "evento",
+    "ValorReq": 0,
+    "RecompensaTitulo": "Modelo"
+  },
+  {
+    "Id": "first_comment",
+    "NomePT": "Crítico Social",
+    "NomeEN": "Social Critic",
+    "NomeES": "Crítico Social",
+    "DescPT": "Fez o seu primeiro comentário no marketplace.",
+    "DescEN": "Made your first comment.",
+    "DescES": "Hizo su primer comentario.",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO0JBscm25yoR_7O1IB_ZxuqYmpcBQgUM4w&s",
+    "TipoReq": "evento",
+    "ValorReq": 0,
+    "RecompensaTitulo": "Comentarista"
+  },
+  {
+    "Id": "social_butterfly",
+    "NomePT": "Tagarela",
+    "NomeEN": "Social Butterfly",
+    "NomeES": "Charlatán",
+    "DescPT": "Fez mais de 10 comentários no Marketplace.",
+    "DescEN": "Made more than 10 comments in the Marketplace.",
+    "DescES": "Hizo más de 10 comentarios.",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/2462/2462719.png",
+    "TipoReq": "comentarios",
+    "ValorReq": 10,
+    "RecompensaTitulo": "Influenciador"
+  },
+  {
+    "Id": "first_song",
+    "NomePT": "Melômano",
+    "NomeEN": "Melomaniac",
+    "NomeES": "Melómano",
+    "DescPT": "Ouviu sua primeira música no rádio do QstandX.",
+    "DescEN": "Listened to your first song on QstandX radio.",
+    "DescES": "Escuchó su primera música en la radio de QstandX.",
+    "Insignia": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfaknjuCefbtMdEk7GnLwVrn0aRpfBH2JXw&s",
+    "TipoReq": "musicas_ouvidas",
+    "ValorReq": 1,
+    "RecompensaTitulo": "Ouvinte"
   },
   {
     "Id": "radio_fan",
@@ -78,19 +156,6 @@
     "RecompensaTitulo": "Elite"
   },
   {
-    "Id": "social_butterfly",
-    "NomePT": "Tagarela",
-    "NomeEN": "Social Butterfly",
-    "NomeES": "Charlatán",
-    "DescPT": "Fez mais de 10 comentários no Marketplace.",
-    "DescEN": "Made more than 10 comments in the Marketplace.",
-    "DescES": "Hizo más de 10 comentarios.",
-    "Insignia": "https://cdn-icons-png.flaticon.com/512/2462/2462719.png",
-    "TipoReq": "comentarios",
-    "ValorReq": 10,
-    "RecompensaTitulo": "Influenciador"
-  },
-  {
     "Id": "night_owl",
     "NomePT": "Coruja da Noite",
     "NomeEN": "Night Owl",
@@ -104,16 +169,16 @@
     "RecompensaTitulo": "Insone"
   },
   {
-  "Id": "staff_special",
-  "NomePT": "Autoridade Máxima",
-  "NomeEN": "Maximum Authority",
-  "NomeES": "Autoridad Máxima",
-  "DescPT": "Você faz parte da equipe oficial do QstandX!",
-  "DescEN": "You are part of the official QstandX team!",
-  "DescES": "¡Eres parte del equipo oficial de QstandX!",
-  "Insignia": "https://cdn-icons-png.flaticon.com/512/1063/1063196.png",
-  "TipoReq": "is_staff",
-  "ValorReq": 1,
-  "RecompensaTitulo": "Fromadmin"
-}
+    "Id": "staff_special",
+    "NomePT": "Autoridade Máxima",
+    "NomeEN": "Maximum Authority",
+    "NomeES": "Autoridad Máxima",
+    "DescPT": "Você faz parte da equipe oficial do QstandX!",
+    "DescEN": "You are part of the official QstandX team!",
+    "DescES": "¡Eres parte del equipo oficial de QstandX!",
+    "Insignia": "https://cdn-icons-png.flaticon.com/512/1063/1063196.png",
+    "TipoReq": "is_staff",
+    "ValorReq": 1,
+    "RecompensaTitulo": "Fromadmin"
+  }
 ]
