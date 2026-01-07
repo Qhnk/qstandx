@@ -1,7 +1,7 @@
 # 🌌 QstandX 2026
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.6-00FFFF?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/version-1.0.7-00FFFF?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/C%23-WinForms-purple?style=for-the-badge" alt="Linguagem">
 </p>
