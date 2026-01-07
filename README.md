@@ -28,7 +28,7 @@ Criação de guildas, XP coletivo e disputa pelo topo do Ranking Global.
 `████████░░ 80%`
 
 ### 💰 Economia (Loja de Ouro & Diamantes)
-Ganhe recursos completando missões e troque por medalhas e cosméticos exclusivos na Q-Store.
+Ganhe recursos completando missões e troque por medalhas e itens exclusivos na Q-Store.
 `██████░░░░ 60%`
 
 ### 💬 Global & Clan Chat
