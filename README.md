@@ -17,6 +17,29 @@
 **QstandX 2026** é um launcher de alto desempenho para jogos Flash, desenvolvido em 2026 como a alternativa definitiva após a falta de suporte de ferramentas clássicas como **iMouse** e **Baffler**. Focado em velocidade, automação e customização para a comunidade.
 
 ---
+---
+
+## 🛠️ Próxima Atualização: v1.1.0 (Coming Soon)
+
+O **QstandX** está evoluindo de um launcher para um ecossistema social. Confira o progresso das novas funcionalidades:
+
+### 🛡️ Sistema de Clãs & Ranking
+Criação de guildas, XP coletivo e disputa pelo topo do Ranking Global.
+`████████░░ 80%`
+
+### 💰 Economia (Loja de Ouro & Diamantes)
+Ganhe recursos completando missões e troque por medalhas e cosméticos exclusivos na Q-Store.
+`██████░░░░ 60%`
+
+### 💬 Global & Clan Chat
+Integração de chat em tempo real para comunicação direta entre membros e aliados.
+`████░░░░░░ 40%`
+
+> [!TIP]
+> **Quer ser um Beta Tester?** Os membros ativos no nosso Discord terão acesso antecipado às funções de Clã para garantir os nomes de suas guildas antes do lançamento oficial.
+
+---
+
 
 ## 🚀 Diferenciais (Features)
 
