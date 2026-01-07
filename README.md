@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Qhnk/qstandx/releases/download/v1.0.7/QstandX.zip">
-    <img src="https://img.shields.io/badge/BAIXAR_QSTANDX_V1.0.6-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Now">
+    <img src="https://img.shields.io/badge/BAIXAR_QSTANDX_V1.0.7-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Download Now">
   </a>
 </p>
 
