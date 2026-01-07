@@ -20,22 +20,22 @@
 
 ## 🚀 Diferenciais (Features)
 
-*   ⚡ **Turbo Mode:** Prioridade de processo em tempo real para evitar quedas de FPS.
-*   🧠 **Auto-RAM Optimization:** Limpeza agressiva e automática de cache e memória de trabalho.
-*   📚 **Biblioteca Customizada:** Adicione seus próprios arquivos `.swf` ou links de jogos favoritos.
-*   📜 **Engine de Scripts:** Gerenciador de scripts Lua integrado.
-*   🖥️ **Interface Moderna:** UI translúcida com modo Auto-Hide e suporte nativo a Fullscreen (F11).
-*   🛰️ **News Feed:** Integração direta com as notícias do **Area 801**.
-*   🔄 **Auto-Update:** Sistema inteligente que detecta novas versões e atualiza o launcher automaticamente.
+* ⚡ **Turbo Mode:** Prioridade de processo em tempo real para evitar quedas de FPS.
+* 🧠 **Auto-RAM Optimization:** Limpeza agressiva e automática de cache e memória de trabalho.
+* 📚 **Biblioteca Customizada:** Adicione seus próprios arquivos `.swf` ou links de jogos favoritos.
+* 📜 **Engine de Scripts:** Gerenciador de scripts Lua integrado.
+* 🖥️ **Interface Moderna:** UI translúcida com modo Auto-Hide e suporte nativo a Fullscreen (F11).
+* 🛰️ **News Feed:** Integração direta com as notícias do **Area 801**.
+* 🔄 **Auto-Update:** Sistema inteligente que detecta novas versões e atualiza o launcher automaticamente.
 
 ---
 
 ## 📸 Screenshots
 
-> 
-![Preview do QstandX](preview.png)
-![Preview do QstandX](preview3.png)
-![Preview do QstandX](preview2.png)
+> ![Preview do QstandX](preview.png)
+> ![Preview do QstandX](preview3.png)
+> ![Preview do QstandX](preview2.png)
+
 ---
 
 ## 🛠️ Como Instalar
@@ -58,6 +58,20 @@
 
 ---
 
+## ☕ Apoie o Projeto
+
+Se o **QstandX** melhorou sua jogabilidade, considere apoiar o desenvolvimento contínuo. Sua doação ajuda a manter os servidores de update e o suporte a novas engines!
+
+<p align="left">
+  <a href="https://ko-fi.com/qstand">
+    <img src="https://img.shields.io/badge/Apoiar_via_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Apoie no Ko-fi">
+  </a>
+</p>
+
+*As doações são processadas via PayPal de forma segura e privada.*
+
+---
+
 ## 🤝 Créditos e Motivação
 
 Este projeto foi desenvolvido por **Qhnk** em 2026.
@@ -69,8 +83,8 @@ O QstandX é feito por jogadores, para jogadores.
 
 ## 📬 Contato & Suporte
 
-*   **Github:** [@qhnk](https://github.com/qhnk)
-*   **Discord:** [ENTRE NO MEU SERVIDOR](https://discord.gg/9E4Sdrp77W)
+* **Github:** [@qhnk](https://github.com/qhnk)
+* **Discord:** [ENTRE NO MEU SERVIDOR](https://discord.gg/9E4Sdrp77W)
 
 ---
 *Este software é fornecido "como está", sem garantias explícitas.*
