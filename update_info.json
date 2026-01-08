@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "Title": "QstandX - Social Update",
   "DescriptionPT": "A versão 1.0.7 traz a evolução social do QstandX! Agora você pode personalizar seu perfil, adicionar amigos e desbloquear conquistas com títulos exclusivos.",
   "DescriptionEN": "Version 1.0.7 brings the social evolution of QstandX! Now you can customize your profile, add friends, and unlock achievements with exclusive titles.",
@@ -23,5 +23,5 @@
     "Títulos: Desbloquea y muestra títulos especiales al completar metas en el launcher."
   ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.7/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.8/QstandX.zip"
 }
