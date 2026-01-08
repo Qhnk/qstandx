@@ -49,5 +49,14 @@
     "Price": 100000,
     "ImageUrl": "https://files.catbox.moe/lox369.png",
     "AssetUrl": "https://files.catbox.moe/lox369.png"
+  },
+  {
+    "Id": "elite",
+    "Name": "DRAGON_ELITE",
+    "Description": "FOGO ARDENTE.",
+    "Type": "bannee",
+    "Price": 10000,
+    "ImageUrl": "https://files.catbox.moe/omfv3s.png",
+    "AssetUrl": "https://files.catbox.moe/lox369.png"
   }
 ]
