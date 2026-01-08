@@ -46,7 +46,7 @@
     "Name": "BETA",
     "Description": "Desde o principio.",
     "Type": "medal",
-    "Price": 100000,
+    "Price": 150000,
     "ImageUrl": "https://files.catbox.moe/lox369.png",
     "AssetUrl": "https://files.catbox.moe/lox369.png"
   },
@@ -54,9 +54,63 @@
     "Id": "elite",
     "Name": "DRAGON_ELITE",
     "Description": "FOGO ARDENTE.",
-    "Type": "bannee",
+    "Type": "banner",
     "Price": 10000,
     "ImageUrl": "https://files.catbox.moe/omfv3s.png",
-    "AssetUrl": "https://files.catbox.moe/lox369.png"
+    "AssetUrl": "https://files.catbox.moe/omfv3s.png"
+  },
+  {
+    "Id": "d&d",
+    "Name": "D&D_ELITE",
+    "Description": "Guerra e sangue.",
+    "Type": "banner",
+    "Price": 12000,
+    "ImageUrl": "https://images.ctfassets.net/swt2dsco9mfe/717QAbHdJUDiD8vU1reNtP/26675126083388be92347181ad5a6226/1920x600-fansitekit.jpg?q=70",
+    "AssetUrl": "https://images.ctfassets.net/swt2dsco9mfe/717QAbHdJUDiD8vU1reNtP/26675126083388be92347181ad5a6226/1920x600-fansitekit.jpg?q=70"
+  },
+  {
+    "Id": "blood",
+    "Name": "Meiga Morte",
+    "Description": "Fofura ou temor?",
+    "Type": "banner",
+    "Price": 15000,
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3hM7q8okYUEKE0G3MlPmfz8My4Yu2ONgsQ&s",
+    "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3hM7q8okYUEKE0G3MlPmfz8My4Yu2ONgsQ&s"
+  },
+  {
+    "Id": "eye",
+    "Name": "Look my eyes",
+    "Description": "Olhe mais perto",
+    "Type": "banner",
+    "Price": 16000,
+    "ImageUrl": "https://static.vecteezy.com/system/resources/thumbnails/039/880/369/small_2x/bright-anime-manga-eyes-with-stars-in-neon-colors-banner-with-the-eyes-of-japanese-girl-vector.jpg",
+    "AssetUrl": "https://static.vecteezy.com/system/resources/thumbnails/039/880/369/small_2x/bright-anime-manga-eyes-with-stars-in-neon-colors-banner-with-the-eyes-of-japanese-girl-vector.jpg"
+  },
+  {
+    "Id": "purple",
+    "Name": "Look my eyes again!",
+    "Description": "Seus olhos refletem minh'alma",
+    "Type": "banner",
+    "Price": 12000,
+    "ImageUrl": "https://static.vecteezy.com/system/resources/thumbnails/039/880/369/small_2x/bright-anime-manga-eyes-with-stars-in-neon-colors-banner-with-the-eyes-of-japanese-girl-vector.jpg",
+    "AssetUrl": "https://static.vecteezy.com/system/resources/thumbnails/039/880/369/small_2x/bright-anime-manga-eyes-with-stars-in-neon-colors-banner-with-the-eyes-of-japanese-girl-vector.jpg"
+  },
+  {
+    "Id": "explore",
+    "Name": "SATOSHI",
+    "Description": "わびさび",
+    "Type": "banner",
+    "Price": 15000,
+    "ImageUrl": "https://files.catbox.moe/kolmb9.png",
+    "AssetUrl": "https://files.catbox.moe/kolmb9.png"
+  },
+  {
+    "Id": "gojoeye",
+    "Name": "Iluminated",
+    "Description": "O mais honrado!",
+    "Type": "banner",
+    "Price": 15000,
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrthRhTGpDAXiRRpgPSi-MHN0excggWOOuw&s",
+    "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrthRhTGpDAXiRRpgPSi-MHN0excggWOOuw&s"
   }
 ]
