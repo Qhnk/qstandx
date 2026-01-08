@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "banner_cyber",
+    "Name": "Cyber City",
+    "Description": "Futurismo neon para seu perfil.",
+    "Type": "banner",
+    "Price": 500,
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49YB2w83gHpwZG4bkCiN2QSL3n3xlW8valg&s",
+    "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgJGfnr3sOUVLBvJYL6Hb176mnw9UApk_Rw&s"
+  },
+  {
+    "Id": "medal_king",
+    "Name": "Coroa Real",
+    "Description": "Uma coroa dourada.",
+    "Type": "medal",
+    "Price": 1500,
+    "ImageUrl": "https://static.vecteezy.com/ti/vetor-gratis/p1/7984475-gold-round-blank-template-and-red-band-vector-banner-graphic-user-interface-for-the-game-vetor.jpg",
+    "AssetUrl": "https://static.vecteezy.com/ti/vetor-gratis/p1/7984475-gold-round-blank-template-and-red-band-vector-banner-graphic-user-interface-for-the-game-vetor.jpg"
+  }
+]
