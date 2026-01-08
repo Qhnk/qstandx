@@ -40,5 +40,14 @@
     "Price": 2000,
     "ImageUrl": "https://w7.pngwing.com/pngs/628/27/png-transparent-dungeons-dragons-middle-ages-role-playing-game-ravenloft-medieval-art-banner-medieval-game-middle-ages-roleplaying.png",
     "AssetUrl": "https://w7.pngwing.com/pngs/628/27/png-transparent-dungeons-dragons-middle-ages-role-playing-game-ravenloft-medieval-art-banner-medieval-game-middle-ages-roleplaying.png"
+  },
+  {
+    "Id": "beta",
+    "Name": "BETA",
+    "Description": "Desde o principio.",
+    "Type": "medal",
+    "Price": 100000,
+    "ImageUrl": "https://files.catbox.moe/lox369.png",
+    "AssetUrl": "https://files.catbox.moe/lox369.png"
   }
 ]
