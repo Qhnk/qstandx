@@ -16,5 +16,21 @@
     "Price": 1500,
     "ImageUrl": "https://static.vecteezy.com/ti/vetor-gratis/p1/7984475-gold-round-blank-template-and-red-band-vector-banner-graphic-user-interface-for-the-game-vetor.jpg",
     "AssetUrl": "https://static.vecteezy.com/ti/vetor-gratis/p1/7984475-gold-round-blank-template-and-red-band-vector-banner-graphic-user-interface-for-the-game-vetor.jpg"
+  },{
+    "Id": "banner_mar",
+    "Name": "VIKING",
+    "Description": "RAGNAR VIBE.",
+    "Type": "banner",
+    "Price": 1500,
+    "ImageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3204694-banner1.jpg",
+    "AssetUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3204694-banner1.jpg"
+  },{
+    "Id": "banner_dragon",
+    "Name": "DRAGON",
+    "Description": "WAR VIBE.",
+    "Type": "banner",
+    "Price": 1600,
+    "ImageUrl": "https://nuckturp.com.br/wp-content/uploads/2023/01/rpg-de-mesa-capa.jpg",
+    "AssetUrl": "https://nuckturp.com.br/wp-content/uploads/2023/01/rpg-de-mesa-capa.jpg"
   }
 ]
