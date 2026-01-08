@@ -60,13 +60,13 @@
     "AssetUrl": "https://files.catbox.moe/omfv3s.png"
   },
   {
-    "Id": "d&d",
-    "Name": "D&D_ELITE",
-    "Description": "Guerra e sangue.",
+    "Id": "princess",
+    "Name": "Love or not?",
+    "Description": "A luta acaba aqui.",
     "Type": "banner",
-    "Price": 12000,
-    "ImageUrl": "https://images.ctfassets.net/swt2dsco9mfe/717QAbHdJUDiD8vU1reNtP/26675126083388be92347181ad5a6226/1920x600-fansitekit.jpg?q=70",
-    "AssetUrl": "https://images.ctfassets.net/swt2dsco9mfe/717QAbHdJUDiD8vU1reNtP/26675126083388be92347181ad5a6226/1920x600-fansitekit.jpg?q=70"
+    "Price": 22000,
+    "ImageUrl": "https://t3.ftcdn.net/jpg/09/60/93/26/240_F_960932682_RAHZZyaoTS7cMtWDMEpngHLeuPmyZZYi.jpg",
+    "AssetUrl": "https://t3.ftcdn.net/jpg/09/60/93/26/240_F_960932682_RAHZZyaoTS7cMtWDMEpngHLeuPmyZZYi.jpg"
   },
   {
     "Id": "blood",
@@ -74,8 +74,8 @@
     "Description": "Fofura ou temor?",
     "Type": "banner",
     "Price": 15000,
-    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3hM7q8okYUEKE0G3MlPmfz8My4Yu2ONgsQ&s",
-    "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3hM7q8okYUEKE0G3MlPmfz8My4Yu2ONgsQ&s"
+    "ImageUrl": "https://t3.ftcdn.net/jpg/07/32/10/90/240_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg",
+    "AssetUrl": "https://t3.ftcdn.net/jpg/07/32/10/90/240_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg"
   },
   {
     "Id": "eye",
@@ -101,16 +101,25 @@
     "Description": "わびさび",
     "Type": "banner",
     "Price": 15000,
-    "ImageUrl": "https://files.catbox.moe/kolmb9.png",
-    "AssetUrl": "https://files.catbox.moe/kolmb9.png"
+    "ImageUrl": "https://t3.ftcdn.net/jpg/09/60/93/26/240_F_960932682_RAHZZyaoTS7cMtWDMEpngHLeuPmyZZYi.jpg",
+    "AssetUrl": "https://t3.ftcdn.net/jpg/09/60/93/26/240_F_960932682_RAHZZyaoTS7cMtWDMEpngHLeuPmyZZYi.jpg"
   },
   {
-    "Id": "gojoeye",
-    "Name": "Iluminated",
-    "Description": "O mais honrado!",
+    "Id": "good place",
+    "Name": "Peace",
+    "Description": "My peace",
     "Type": "banner",
     "Price": 15000,
-    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrthRhTGpDAXiRRpgPSi-MHN0excggWOOuw&s",
-    "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrthRhTGpDAXiRRpgPSi-MHN0excggWOOuw&s"
+    "ImageUrl": "https://t3.ftcdn.net/jpg/09/16/52/76/240_F_916527673_95Sclbk8GoAsyO56tlQ2boerb4LZkExH.jpg",
+    "AssetUrl": "https://t3.ftcdn.net/jpg/09/16/52/76/240_F_916527673_95Sclbk8GoAsyO56tlQ2boerb4LZkExH.jpg"
+  },
+  {
+    "Id": "GOLDragon",
+    "Name": "GoldX",
+    "Description": "U are ready for cry?",
+    "Type": "banner",
+    "Price": 15000,
+    "ImageUrl": "https://t4.ftcdn.net/jpg/06/54/23/51/240_F_654235114_xaxo9SO3PepXxRclG8ua3L9Z3jBaR3w8.jpg",
+    "AssetUrl": "https://t4.ftcdn.net/jpg/06/54/23/51/240_F_654235114_xaxo9SO3PepXxRclG8ua3L9Z3jBaR3w8.jpg"
   }
 ]
