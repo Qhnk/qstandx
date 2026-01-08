@@ -1,11 +1,11 @@
 [
   {
-    "Id": "banner_cyber",
-    "Name": "Cyber City",
-    "Description": "Futurismo neon para seu perfil.",
+    "Id": "banner_play",
+    "Name": "Play Dex",
+    "Description": "Banner basico.",
     "Type": "banner",
-    "Price": 500,
-    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49YB2w83gHpwZG4bkCiN2QSL3n3xlW8valg&s",
+    "Price": 50,
+    "ImageUrl": https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgJGfnr3sOUVLBvJYL6Hb176mnw9UApk_Rw&s",
     "AssetUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgJGfnr3sOUVLBvJYL6Hb176mnw9UApk_Rw&s"
   },
   {
