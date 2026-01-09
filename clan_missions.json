@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "m1",
+    "Title": "Dominio Total",
+    "Description": "Venca 10 partidas de Transformice com membros do cla.",
+    "XpReward": 500,
+    "SeasonId": "1"
+  },
+  {
+    "Id": "m2",
+    "Title": "Recrutamento em Massa",
+    "Description": "Convide 2 novos jogadores para a tribo hoje.",
+    "XpReward": 300,
+    "SeasonId": "1"
+  },
+  {
+    "Id": "m3",
+    "Title": "Maratona Bootcamp",
+    "Description": "Complete 5 mapas Bootcamp seguidos.",
+    "XpReward": 1000,
+    "SeasonId": "1"
+  }
+]
