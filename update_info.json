@@ -1,27 +1,27 @@
 {
-  "Version": "1.0.8",
-  "Title": "QstandX - Social Update",
-  "DescriptionPT": "A versão 1.0.7 traz a evolução social do QstandX! Agora você pode personalizar seu perfil, adicionar amigos e desbloquear conquistas com títulos exclusivos.",
-  "DescriptionEN": "Version 1.0.7 brings the social evolution of QstandX! Now you can customize your profile, add friends, and unlock achievements with exclusive titles.",
-  "DescriptionES": "¡La versión 1.0.7 trae la evolución social de QstandX! Ahora puedes personalizar tu perfil, agregar amigos y desbloquear logros con títulos exclusivos.",
+  "Version": "1.0.9",
+  "Title": "QstandX - Clans & Pets Update",
+  "DescriptionPT": "A versão 1.0.9 chega com tudo! Agora você pode criar sua tribo com o sistema de Clãs, adotar Pets que geram recursos e deixar seu perfil incrível com Banners Animados.",
+  "DescriptionEN": "Version 1.0.9 is here with a bang! Now you can start your tribe with the Clan system, adopt Pets that generate resources, and make your profile look amazing with Animated Banners.",
+  "DescriptionES": "¡La versión 1.0.9 llega con todo! Ahora puedes crear tu tribu con el sistema de Clanes, adoptar Mascotas que generan recursos y hacer que tu perfil luzca increíble con Banners Animados.",
   "ChangelogPT": [
-    "Perfil: Personalize seu avatar, bio e escolha seus títulos conquistados.",
-    "Lista de Amigos: Adicione jogadores, veja quem está online e o que estão jogando.",
-    "Conquistas: Novo sistema de desafios com aviso visual e sonoro.",
-    "Títulos: Desbloqueie e exiba títulos especiais ao completar metas no launcher."
+    "Pets: Adote companheiros na loja! Cuide da fome, suba o nível deles e colete Ouro diariamente.",
+    "Clãs: Crie ou entre em um Clã, suba no Ranking Global e gerencie membros.",
+    "Banners Animados: Suporte completo para GIFs! Personalize seu perfil com banners em movimento.",
+    "Loja: Nova aba de Pets e categorias organizadas para facilitar suas compras."
   ],
   "ChangelogEN": [
-    "Profile: Customize your avatar, bio, and choose your earned titles.",
-    "Friend List: Add players, see who's online and what they're playing.",
-    "Achievements: New challenge system with visual and sound notifications.",
-    "Titles: Unlock and display special titles by completing launcher goals."
+    "Pets: Adopt companions in the store! Manage their hunger, level them up, and collect Gold daily.",
+    "Clans: Create or join a Clan, climb the Global Ranking, and manage members.",
+    "Animated Banners: Full GIF support! Customize your profile with moving banners.",
+    "Store: New Pets tab and organized categories to make shopping easier."
   ],
   "ChangelogES": [
-    "Perfil: Personaliza tu avatar, biografía y elige tus títulos ganados.",
-    "Lista de Amigos: Agrega jugadores, mira quién está en línea y que estão jugando.",
-    "Logros: Nuevo sistema de desafíos con notificaciones visuales y sonoras.",
-    "Títulos: Desbloquea y muestra títulos especiales al completar metas en el launcher."
+    "Mascotas: ¡Adopta compañeros en la tienda! Cuida su hambre, sube su nivel y recoge Oro diariamente.",
+    "Clanes: Crea o únete a un Clan, sube en el Ranking Global y gestiona miembros.",
+    "Banners Animados: ¡Soporte completo para GIFs! Personaliza tu perfil con banners en movimiento.",
+    "Tienda: Nueva pestaña de Mascotas y categorías organizadas para facilitar tus compras."
   ],
   "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgCct4nSWvpYY71rf-wN4tzDKYhJtMDbsBg&s",
-  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.8/QstandX.zip"
+  "DownloadUrl": "https://github.com/Qhnk/qstandx/releases/download/v1.0.9/QstandX.zip"
 }
