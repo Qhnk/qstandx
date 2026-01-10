@@ -211,7 +211,8 @@
     "Price": 20000,
     "ImageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif",
     "AssetUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif"
-  },{
+  },
+  {
     "Id": "dog",
     "Name": "Doguinho",
     "Description": "Um companheiro  que gera ouro enquanto você joga.",
