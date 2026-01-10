@@ -1,3 +1,4 @@
+
 [
   {
     "Id": "banner_play",
@@ -220,7 +221,7 @@
     "Price": 100,
     "ImageUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif",
     "AssetUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif"
-  }[
+  },
   {
     "Id": "title_legend",
     "Name": "A Lenda",
@@ -300,6 +301,15 @@
     "Type": "title",
     "Price": 2000,
     "ImageUrl": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_admin_fake",
+    "Name": "Admin (Fake)",
+    "Description": "Parece verídico, mas não é.",
+    "Type": "title",
+    "Price": 1500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2345/2345338.png",
     "AssetUrl": ""
   },
   {
@@ -393,4 +403,4 @@
     "AssetUrl": ""
   }
 ]
-]
+
