@@ -211,5 +211,22 @@
     "Price": 20000,
     "ImageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif",
     "AssetUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif"
+  },{
+    "Id": "dog",
+    "Name": "Doguinho",
+    "Description": "Um companheiro  que gera ouro enquanto você joga.",
+    "Type": "pet",
+    "Price": 100,
+    "ImageUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif",
+    "AssetUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif"
+  },
+  {
+    "Id": "dragon",
+    "Name": "Draco",
+    "Description": "Um misterioso que adora dormir e comer.",
+    "Type": "pet",
+    "Price": 500,
+    "ImageUrl": "https://cdna.artstation.com/p/assets/images/images/019/793/066/original/vadim-akhmetzyanov-rnd-vilgo-sx.gif",
+    "AssetUrl": "https://cdna.artstation.com/p/assets/images/images/019/793/066/original/vadim-akhmetzyanov-rnd-vilgo-sx.gif"
   }
 ]
