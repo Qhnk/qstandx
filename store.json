@@ -139,5 +139,14 @@
     "Price": 15000,
     "ImageUrl": "https://t3.ftcdn.net/jpg/07/32/10/92/240_F_732109254_zKvL0rFKz72QyrOYqErwY1UpmY2zySIu.jpg",
     "AssetUrl": "https://t3.ftcdn.net/jpg/07/32/10/92/240_F_732109254_zKvL0rFKz72QyrOYqErwY1UpmY2zySIu.jpg"
+  },
+  {
+    "Id": "gamer",
+    "Name": "I'm NERD",
+    "Description": "UHU!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://i.redd.it/bpxxqqvps4h91.gif",
+    "AssetUrl": "https://i.redd.it/bpxxqqvps4h91.gif"
   }
 ]
