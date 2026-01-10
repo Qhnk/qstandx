@@ -221,5 +221,185 @@
     "Price": 100,
     "ImageUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif",
     "AssetUrl": "https://i.pinimg.com/originals/15/c1/44/15c144e8dc552a100b3292d268854499.gif"
+  },
+  {
+    "Id": "title_legend",
+    "Name": "A Lenda",
+    "Description": "Um título para quem já fez história.",
+    "Type": "title",
+    "Price": 5000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/5406/5406839.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_rich",
+    "Name": "Magnata",
+    "Description": "Mostre para todos que você tem muito Ouro!",
+    "Type": "title",
+    "Price": 50000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2485/2485521.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_noob",
+    "Name": "Noob Profissional",
+    "Description": "Pelo menos você é honesto sobre suas habilidades.",
+    "Type": "title",
+    "Price": 100,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/1705/1705917.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_lag",
+    "Name": "Rei do Lag",
+    "Description": "Seu ping é mais de 9000!",
+    "Type": "title",
+    "Price": 500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/3587/3587752.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_tryhard",
+    "Name": "Tryhard",
+    "Description": "Jogando a sério até no tutorial.",
+    "Type": "title",
+    "Price": 2500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/168/168808.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_hacker_fake",
+    "Name": "Hacker?",
+    "Description": "Você joga tão bem que desconfiam.",
+    "Type": "title",
+    "Price": 8000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/3050/3050275.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_npc",
+    "Name": "NPC",
+    "Description": "Você está aqui apenas para dar missões.",
+    "Type": "title",
+    "Price": 300,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/1864/1864470.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_mvp",
+    "Name": "MVP",
+    "Description": "Most Valuable Player.",
+    "Type": "title",
+    "Price": 4500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2942/2942946.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_uwu",
+    "Name": "UwU",
+    "Description": "Título fofo para gente fofa.",
+    "Type": "title",
+    "Price": 2000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_admin_fake",
+    "Name": "Admin (Fake)",
+    "Description": "Parece verídico, mas não é.",
+    "Type": "title",
+    "Price": 1500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2345/2345338.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_god_mouse",
+    "Name": "Rato Divino",
+    "Description": "Para os mestres do Transformice.",
+    "Type": "title",
+    "Price": 6000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/776/776567.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_toxic",
+    "Name": "Tóxico",
+    "Description": "Cuidado, radioativo.",
+    "Type": "title",
+    "Price": 666,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2568/2568198.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_senpai",
+    "Name": "Senpai",
+    "Description": "Notice me!",
+    "Type": "title",
+    "Price": 3000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/8404/8404987.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_speedrunner",
+    "Name": "Speedrunner",
+    "Description": "Termina tudo em tempo recorde.",
+    "Type": "title",
+    "Price": 2200,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2620/2620958.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_404",
+    "Name": "404 Not Found",
+    "Description": "Título não encontrado.",
+    "Type": "title",
+    "Price": 1200,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/5760/5760814.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_boss",
+    "Name": "O Chefão",
+    "Description": "Respeita a hierarquia.",
+    "Type": "title",
+    "Price": 5500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/1534/1534069.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_ghost",
+    "Name": "Fantasma",
+    "Description": "Você joga, mas ninguém te vê.",
+    "Type": "title",
+    "Price": 1800,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/990/990266.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_pro_player",
+    "Name": "Pro Player",
+    "Description": "Joga muito, fala pouco.",
+    "Type": "title",
+    "Price": 7000,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/3226/3226164.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_coffee",
+    "Name": "Movido a Café",
+    "Description": "Não fale comigo antes do café.",
+    "Type": "title",
+    "Price": 800,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/924/924514.png",
+    "AssetUrl": ""
+  },
+  {
+    "Id": "title_capa",
+    "Name": "Só Capa",
+    "Description": "Mira afiada.",
+    "Type": "title",
+    "Price": 3500,
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/2821/2821012.png",
+    "AssetUrl": ""
   }
 ]
