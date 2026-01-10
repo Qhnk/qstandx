@@ -230,5 +230,14 @@
     "Price": 150,
     "ImageUrl": "https://i.pinimg.com/originals/ab/dd/7d/abdd7da2f2fd574cb5b92f61b01d625d.gif",
     "AssetUrl": "https://i.pinimg.com/originals/ab/dd/7d/abdd7da2f2fd574cb5b92f61b01d625d.gif"
+  },
+  {
+    "Id": "cat",
+    "Name": "Cat",
+    "Description": "Um companheiro  que gera ouro enquanto você joga.",
+    "Type": "pet",
+    "Price": 130,
+    "ImageUrl": "https://i.pinimg.com/originals/12/77/e8/1277e83806a57d51f4b6088c86adc1a1.gif",
+    "AssetUrl": "https://i.pinimg.com/originals/12/77/e8/1277e83806a57d51f4b6088c86adc1a1.gif"
   }
 ]
