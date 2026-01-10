@@ -232,12 +232,12 @@
     "AssetUrl": "https://i.pinimg.com/originals/ab/dd/7d/abdd7da2f2fd574cb5b92f61b01d625d.gif"
   },
   {
-    "Id": "cat",
-    "Name": "Cat",
+    "Id": "drago",
+    "Name": "Draquinho",
     "Description": "Um companheiro  que gera ouro enquanto você joga.",
     "Type": "pet",
     "Price": 130,
-    "ImageUrl": "https://i.pinimg.com/originals/12/77/e8/1277e83806a57d51f4b6088c86adc1a1.gif",
-    "AssetUrl": "https://i.pinimg.com/originals/12/77/e8/1277e83806a57d51f4b6088c86adc1a1.gif"
+    "ImageUrl": "https://cvs-gaming.com/_next/static/media/collaboration-stream-alerts.6286d4e3.gif",
+    "AssetUrl": "https://cvs-gaming.com/_next/static/media/collaboration-stream-alerts.6286d4e3.gif"
   }
 ]
