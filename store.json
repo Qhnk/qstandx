@@ -143,10 +143,73 @@
   {
     "Id": "gamer",
     "Name": "I'm NERD",
-    "Description": "UHU!",
+    "Description": "Animated Banner!",
     "Type": "gifs",
     "Price": 20000,
     "ImageUrl": "https://i.redd.it/bpxxqqvps4h91.gif",
     "AssetUrl": "https://i.redd.it/bpxxqqvps4h91.gif"
+  },
+  {
+    "Id": "snow",
+    "Name": "I'ts Cold!",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://media.licdn.com/dms/image/v2/D4D22AQFxKMxkkL52cQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706366952096?e=2147483647&v=beta&t=gOnaXOi3MH7c9m1vZ9GDAOciXUmL7-yAIpSz-BFehFo",
+    "AssetUrl": "https://media.licdn.com/dms/image/v2/D4D22AQFxKMxkkL52cQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706366952096?e=2147483647&v=beta&t=gOnaXOi3MH7c9m1vZ9GDAOciXUmL7-yAIpSz-BFehFo"
+  },
+  {
+    "Id": "trem",
+    "Name": "traveling",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://i.pinimg.com/originals/59/47/6c/59476c3211e81aaa49c5d3f7ed3a940f.gif",
+    "AssetUrl": "https://i.pinimg.com/originals/59/47/6c/59476c3211e81aaa49c5d3f7ed3a940f.gif"
+  },
+  {
+    "Id": "gojo",
+    "Name": "Honrado",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://www.pinterest.com/pin/903112531515840269/",
+    "AssetUrl": "https://www.pinterest.com/pin/903112531515840269/"
+  },
+  {
+    "Id": "war",
+    "Name": "Warrior",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://cdnb.artstation.com/p/assets/images/images/013/487/439/original/claudio-silva-trabalho3.gif?1539810674",
+    "AssetUrl": "https://cdnb.artstation.com/p/assets/images/images/013/487/439/original/claudio-silva-trabalho3.gif?1539810674"
+  },
+  {
+    "Id": "monster",
+    "Name": "monster",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://i.pinimg.com/originals/dc/2c/e9/dc2ce98619315652fb573929a56c8fb9.gif",
+    "AssetUrl": "https://i.pinimg.com/originals/dc/2c/e9/dc2ce98619315652fb573929a56c8fb9.gif"
+  },
+  {
+    "Id": "dragon",
+    "Name": "Dragon",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gif",
+    "AssetUrl": "https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gif"
+  },
+  {
+    "Id": "dragon2",
+    "Name": "Im dragon",
+    "Description": "Animated Banner!",
+    "Type": "gifs",
+    "Price": 20000,
+    "ImageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif",
+    "AssetUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/afaefd40343363.577bd5133b618.gif"
   }
 ]
