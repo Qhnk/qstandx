@@ -169,6 +169,16 @@
     "AssetUrl": "https://i.pinimg.com/originals/59/47/6c/59476c3211e81aaa49c5d3f7ed3a940f.gif"
   },
   {
+    "Id": "banner_vip_diamond",
+    "Name": "WITCHER",
+    "Description": "Um banner exclusivo comprado com Diamantes!",
+    "Type": "banner",
+    "Price": 30,
+    "ImageUrl": "https://64.media.tumblr.com/b919e79b421fa0a1ab793d4d49437e03/718636e2473efff4-c3/s1280x1920/62462f85e5ecbfbcf840ecb35a88190e71ed73de.gif",
+    "AssetUrl": "https://64.media.tumblr.com/b919e79b421fa0a1ab793d4d49437e03/718636e2473efff4-c3/s1280x1920/62462f85e5ecbfbcf840ecb35a88190e71ed73de.gif",
+    "Currency": "diamond"
+  },
+  {
     "Id": "gojo",
     "Name": "Honrado",
     "Description": "Animated Banner!",
