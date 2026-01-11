@@ -239,5 +239,23 @@
     "Price": 500,
     "ImageUrl": "https://cvs-gaming.com/_next/static/media/collaboration-stream-alerts.6286d4e3.gif",
     "AssetUrl": "https://cvs-gaming.com/_next/static/media/collaboration-stream-alerts.6286d4e3.gif"
+  },
+  {
+    "Id": "fenix",
+    "Name": "Phoenix",
+    "Description": "Um companheiro  que gera ouro enquanto você joga.",
+    "Type": "pet",
+    "Price": 1000,
+    "ImageUrl": "https://gifdb.com/images/high/phoenix-pixel-art-19x0p0sly95iicb4.gif",
+    "AssetUrl": "https://gifdb.com/images/high/phoenix-pixel-art-19x0p0sly95iicb4.gif"
+  },
+  {
+    "Id": "monkey",
+    "Name": "Magago",
+    "Description": "Um companheiro  que gera ouro enquanto você joga.",
+    "Type": "pet",
+    "Price": 400,
+    "ImageUrl": "https://media.baamboozle.com/uploads/images/56501/1632950580_81008_gif-url.gif",
+    "AssetUrl": "https://media.baamboozle.com/uploads/images/56501/1632950580_81008_gif-url.gif"
   }
 ]
