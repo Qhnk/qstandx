@@ -250,12 +250,12 @@
     "AssetUrl": "https://gifdb.com/images/high/phoenix-pixel-art-19x0p0sly95iicb4.gif"
   },
   {
-    "Id": "monkey",
-    "Name": "Magago",
+    "Id": "fox",
+    "Name": "Foxy",
     "Description": "Um companheiro  que gera ouro enquanto você joga.",
     "Type": "pet",
     "Price": 400,
-    "ImageUrl": "https://media.baamboozle.com/uploads/images/56501/1632950580_81008_gif-url.gif",
-    "AssetUrl": "https://media.baamboozle.com/uploads/images/56501/1632950580_81008_gif-url.gif"
+    "ImageUrl": "https://media.tenor.com/7qmbUuWQcqUAAAAi/cute-happy.gif",
+    "AssetUrl": "https://media.tenor.com/7qmbUuWQcqUAAAAi/cute-happy.gif"
   }
 ]
