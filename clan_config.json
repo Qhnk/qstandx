@@ -1,0 +1,11 @@
+{
+  "Leagues": [
+    { "Name": "Bronze", "MinPoints": 0, "ColorHex": "#cd7f32", "IconUrl": "https://preview.redd.it/just-me-who-think-it-would-be-cool-to-get-a-new-clan-lvl-v0-b5op9qvfrz991.png?auto=webp&s=2c42f3231c9931f64677d3f499e3228e3673c865" },
+    { "Name": "Prata", "MinPoints": 500, "ColorHex": "#c0c0c0", "IconUrl": "LINK_IMG_PRATA" },
+    { "Name": "Ouro", "MinPoints": 1000, "ColorHex": "#ffd700", "IconUrl": "LINK_IMG_OURO" }
+  ],
+  "Levels": [
+    { "Level": 1, "IconUrl": "https://preview.redd.it/just-me-who-think-it-would-be-cool-to-get-a-new-clan-lvl-v0-b5op9qvfrz991.png?auto=webp&s=2c42f3231c9931f64677d3f499e3228e3673c865" },
+    { "Level": 2, "IconUrl": "LINK_ICON_LVL2" }
+  ]
+}
